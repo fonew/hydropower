@@ -1,0 +1,452 @@
+,,,,capacity increase (MW),,,,,,pump capacity increase (MW),,,,,,,,"winter generation
+[MWh]","summer generation
+[MWh]",hydro scheme_id,,,
+hydro_id,wasta,name,capacity,2025,2030,2035,2040,eta_turb,pump,2025,2030,2035,2040,eta_pump,technology,country,canton_id,,,,upperwn,lowerwn,Cascade
+Dam_Sedrun,100200,Sedrun,147,,,,,1.361111111,0,,,,,0,Dam,CH,can8,182300,79100,201,Lai da Nalps,Lai Runcahez (AGB Somvixertal),7
+Dam_Tavanasa,100300,Tavanasa,176.4,,,,,1.065217391,0,,,,,0,Dam,CH,can8,220500,342900,201,Lai Runcahez (AGB Somvixertal),Ausgleichsbecken Tavanasa,7
+RoR_Russein,100400,Russein,24.2,,,,,0.96031746,0,,,,,0,RoR,CH,can8,8400,58400,246.2,Lag Barcuns,NULL,85
+RoR_Ferrera,100500,Ferrera,4.23,,,,,1.958333333,0,,,,,0,RoR,CH,can8,3790,14720,213,Virtual_wn_23,NULL,128
+RoR_Tavanasa (Patvag),100600,Tavanasa (Patvag),3.7,,,,,0.685185185,0,,,,,0,RoR,CH,can8,5300,13300,246.1,Virtual_wn_24,NULL,129
+RoR_Mutteins,100700,Mutteins,12,,,,,1.111111111,0,,,,,0,RoR,CH,can8,12900,41400,247,Brigels See,NULL,105
+RoR_Ladral,100800,Ladral,5.6,,,,,1.728395062,0,,,,,0,RoR,CH,can8,3470,12060,2,Ausgleichsbecken (Alp) Gneida,NULL,104
+RoR_Ilanz I,100900,Ilanz I,33.8,,,,,0.187777778,0,,,,,0,RoR,CH,can8,50500,86700,202,Ausgleichsbecken Tavanasa,NULL,7
+Dam_Ilanz II,101000,Ilanz II,48.5,,,,,1.684027778,0,,,,,0,Dam,CH,can8,23200,116400,202,Stausee Ranasca (Panix),NULL,7
+Pump_Zervreila,101100,Zervreila,20,,,,,0.277777778,5.8,,,,,0.37037037,Pump,CH,can16,18100,7600,3.1,Zervreilasee,Ausgleichsbecken Zervreila,108
+Dam_Safien Platz,101200,Safien Platz,88,,,,,1.062801932,0,,,,,0,Dam,CH,can8,93700,68600,3.1,Ausgleichsbecken Wanna,Ausgleichsbecken Safien Platz,108
+Dam_Rothenbrunnen (KWZ),101300,Rothenbrunnen (KWZ),127,,,,,1.610857433,0,,,,,0,Dam,CH,can8,159500,171200,3.1,Ausgleichsbecken Safien Platz,NULL,108
+RoR_Realta,101400,Realta,26,,,,,1.203703704,0,,,,,0,RoR,CH,can8,13900,24900,3.2,Stausee Safien (Egschi),NULL,6
+RoR_Bargaus,101500,Bargaus,2.75,,,,,0.795717593,0,,,,,0,RoR,CH,can8,4500,9200,4.2,Ual da Mulin Stausee,NULL,103
+RoR_Flims,101600,Flims,1.66,,,,,0.54248366,0,,,,,0,RoR,CH,can8,1800,5900,4.1,Virtual_wn_25,NULL,130
+RoR_Trin Mulin,101700,Trin Mulin,1.5,,,,,0.297619048,0,,,,,0,RoR,CH,can8,1250,4550,192,Virtual_wn_26,NULL,131
+RoR_Pintrun,101800,Pintrun,6.2,,,,,0.344444444,0,,,,,0,RoR,CH,can8,7600,23200,246.3,Virtual_wn_27,NULL,132
+Pump_Ferrera I,101900,Ferrera I,180,,,,,1.088777079,90,,,,,1.451702772,Pump,CH,can8,210000,94000,133.1,Lago di Lei,Sufnersee,2
+RoR_Ferrera II,102000,Ferrera II,4.4,,,,,1.088783489,0,,,,,0,RoR,CH,can8,500,2000,133.1,Lago di Lei,Sufnersee,2
+Dam_Baerenburg,102100,Baerenburg,220,,,,,0.763888889,0,,,,,0,Dam,CH,can8,188000,300000,133.1,Sufnersee,Stausee Bärenburg,2
+RoR_Baerenburg-Dotierzentrale,102200,Baerenburg-Dotierzentrale,1.6,,,,,0.116959064,0,,,,,0,RoR,CH,can8,900,1900,133.1,Virtual_wn_28,NULL,2
+Dam_Sils (KHR),102300,Sils (KHR),247,,,,,0.939878234,0,,,,,0,Dam,CH,can8,246000,414000,133.1,Stausee Bärenburg,NULL,2
+RoR_Thusis,102400,Thusis,4.6,,,,,0.212962963,0,,,,,0,RoR,CH,can8,4500,11200,133.2,Virtual_wn_29,NULL,134
+RoR_Frauenkirch,102600,Frauenkirch,0.7,,,,,0.243055556,0,,,,,0,RoR,CH,can8,1730,2590,31.1,Virtual_wn_30,NULL,135
+RoR_Glaris,102700,Glaris,0.96,,,,,0.126984127,0,,,,,0,RoR,CH,can8,3490,3870,31.2,Virtual_wn_20,Ausgleichsbecken Glaris-Ardüs,124
+RoR_Filisur,102800,Filisur,64,,,,,1.111111111,0,,,,,0,RoR,CH,can8,84100,205700,240,Ausgleichsbecken Glaris-Ardüs,Ausgleichsbecken Filisur,124
+RoR_Tiefencastel (ALK),102900,Tiefencastel (ALK),23,,,,,0.354938272,0,,,,,0,RoR,CH,can8,31100,73300,240,Ausgleichsbecken Filisur,NULL,124
+Dam_Tinzen,103100,Tinzen,62.7,,,,,1.042914172,0,,,,,0,Dam,CH,can8,89150,101810,134.3,Lai da Marmorera,Virtual_wn_1,3
+Dam_Tiefencastel Ost,103200,Tiefencastel Ost,50,,,,,0.831669993,0,,,,,0,Dam,CH,can8,74140,82960,134.3,Virtual_wn_1,Alvaschein Stausee (Stausee Solis),3
+RoR_Tiefencastel West,103300,Tiefencastel West,25,,,,,0.694444444,0,,,,,0,RoR,CH,can8,18290,48220,134.8,Lai da Burvagn,Alvaschein Stausee (Stausee Solis),3
+RoR_Solis,103400,Solis,7,,,,,1.340996169,0,,,,,0,RoR,CH,can8,5490,18350,134.9,Heidsee (Igl Lai),NULL,5
+RoR_Sils (EWZ),103500,Sils (EWZ),25,,,,,0.379936591,0,,,,,0,RoR,CH,can8,29840,72410,134.4,Alvaschein Stausee (Stausee Solis),NULL,3
+Dam_Rothenbrunnen (EWZ),103600,Rothenbrunnen (EWZ),38,,,,,0.379940521,0,,,,,0,Dam,CH,can8,75390,109650,134.4,Alvaschein Stausee (Stausee Solis),NULL,3
+RoR_Reichenau,103700,Reichenau,18,,,,,0.041666667,0,,,,,0,RoR,CH,can8,41300,65000,245,Virtual_wn_31,NULL,136
+RoR_Litzirueti,103800,Litzirueti,4.96,,,,,0.459259259,0,,,,,0,RoR,CH,can8,6300,16300,6,Stausee (Ausgleichsbecken) Isel,NULL,94
+RoR_Lueen,103900,Lueen,7,,,,,0.498575499,0,,,,,0,RoR,CH,can8,18360,24920,63,Virtual_wn_32,NULL,137
+RoR_Sand (Plessur),104000,Sand (Plessur),9.2,,,,,0.378040763,0,,,,,0,RoR,CH,can8,14850,32750,135.1,Virtual_wn_33,NULL,138
+RoR_Sand (Rabiusa),104100,Sand (Rabiusa),0.69,,,,,0.212962963,0,,,,,0,RoR,CH,can8,1800,2650,135.2,Virtual_wn_34,NULL,139
+Dam_Klosters,104200,Klosters,16.5,,,,,0.833333333,0,,,,,0,Dam,CH,can8,14000,13000,7.1,Davoser See,Ausgleichsbecken Pläviggin,95
+RoR_Schlappin,104300,Schlappin,6.1,,,,,1.014637392,0,,,,,0,RoR,CH,can12,9650,21150,7.1,AG- und Grundwasserbecken Doggiloch,Ausgleichsbecken Pläviggin,95
+RoR_Kueblis,104400,Kueblis,44,,,,,0.740740741,0,,,,,0,RoR,CH,can12,47500,127000,7.1,Ausgleichsbecken Pläviggin,NULL,95
+Pump_Mapragg,104600,Mapragg,274.3,,,,,1.015925926,159,,,,,1.354567901,Pump,CH,can12,48000,127900,214,Gigerwaldsee,Mapraggstausee (Ausgleichsbecken),87
+Dam_Sarelli,104700,Sarelli,88.2,,,,,0.816666667,0,,,,,0,Dam,CH,can12,48700,131100,214,Mapraggstausee (Ausgleichsbecken),NULL,87
+RoR_Vorderberg,105150,Vorderberg,1,,,,,0.925925926,0,,,,,0,RoR,CH,can12,700,1890,129,Virtual_wn_21,Virtual_wn_35,125
+RoR_Tobelaeckerli,105200,Tobelaeckerli,0.68,,,,,0.53968254,0,,,,,0,RoR,CH,can12,600,600,129,Virtual_wn_35,NULL,125
+RoR_Altendorf (Buchs),105300,Altendorf (Buchs),3.7,,,,,1.468253968,0,,,,,0,RoR,CH,can12,3170,8640,129,Ausgleichsbecken Vorderberg,NULL,125
+RoR_Lienz,105700,Lienz,0.4,,,,,0.008547009,0,,,,,0,RoR,CH,can12,660,790,36.5,Virtual_wn_36,NULL,141
+RoR_Blatten,105800,Blatten,0.4,,,,,0.007936508,0,,,,,0,RoR,CH,can12,660,800,36.5,Virtual_wn_37,NULL,141
+RoR_Montlingen,105900,Montlingen,0.4,,,,,0.007662835,0,,,,,0,RoR,CH,can12,710,830,36.5,Virtual_wn_38,NULL,141
+RoR_Heiden,106000,Heiden,0.6,,,,,0.37037037,0,,,,,0,RoR,CH,can12,1000,1000,180,Stausee List,NULL,111
+RoR_Lochmuehle,106100,Lochmuehle,0.63,,,,,0.291666667,0,,,,,0,RoR,CH,can12,1300,1500,10,Virtual_wn_39,NULL,144
+RoR_Schaffhausen,106200,Schaffhausen,25.4,,,,,0.068908668,0,,,,,0,RoR,CH,can15,79460,94290,12,Hochreservoir Engewald (Spitalwald),NULL,110
+Pump_Pumpspeicherzent. Schaffhausen,106300,Pumpspeicherzent. Schaffhausen,5,,,,,0.068907845,5.3,,,,,0.091877126,Pump,CH,can15,0,0,12,Hochreservoir Engewald (Spitalwald),NULL,110
+RoR_Neuhausen,106400,Neuhausen,4.9,,,,,0.045522111,0,,,,,0,RoR,CH,can15,20700,20800,11,Virtual_wn_40,NULL,146
+RoR_Rheinau,106500,Rheinau,36,,,,,0.025,0,,,,,0,RoR,CH,can13,78900,162800,204,Virtual_wn_41,NULL,147
+RoR_Giessen,106600,Giessen,2.5,,,,,0.075075075,0,,,,,0,RoR,CH,can12,1970,4460,36.3,Virtual_wn_42,NULL,148
+RoR_Herrentoebeli,106650,Herrentoebeli,1,,,,,0.025252525,0,,,,,0,RoR,CH,can12,1190,2400,36.7,Virtual_wn_43,NULL,149
+RoR_Trempel,106700,Trempel,1.8,,,,,0.0625,0,,,,,0,RoR,CH,can12,3600,4400,149,Virtual_wn_44,NULL,150
+RoR_Muehlau,107100,Muehlau,1.3,,,,,0.011648746,0,,,,,0,RoR,CH,can15,2300,3300,13,Virtual_wn_45,NULL,151
+Dam_Wasserauen,107400,Wasserauen,2.5,,,,,0.534188034,0,,,,,0,Dam,CH,can12,1480,6220,38,Seealpsee,NULL,97
+RoR_Kubel,107500,Kubel,16.8,,,,,0.259259259,0,,,,,0,RoR,CH,can12,13500,17330,36.1,Gübsensee,NULL,96
+RoR_Buerglen (Spinnerei),107800,Buerglen (Spinnerei),1,,,,,0.015873016,0,,,,,0,RoR,CH,can15,2600,4500,136,Virtual_wn_46,NULL,152
+RoR_Buerglen (Saege),107900,Buerglen (Saege),0.45,,,,,0.007142857,0,,,,,0,RoR,CH,can15,1350,1550,16.2,Virtual_wn_47,NULL,153
+RoR_Thur,108000,Thur,0.65,,,,,0.01031746,0,,,,,0,RoR,CH,can15,2330,2420,16.1,Virtual_wn_48,NULL,154
+RoR_Weinfelden (Model),108100,Weinfelden (Model),0.4,,,,,0.01010101,0,,,,,0,RoR,CH,can15,1320,1310,17,Virtual_wn_49,NULL,155
+RoR_Weinfelden (Mühle),108200,Weinfelden (Mühle),0.42,,,,,0.010606061,0,,,,,0,RoR,CH,can15,1150,1350,181,Virtual_wn_50,NULL,156
+RoR_Widen,108250,Widen,0.77,,,,,0.009722222,0,,,,,0,RoR,CH,can15,2600,2200,262,Virtual_wn_51,NULL,157
+RoR_Freienstein,108500,Freienstein,0.6,,,,,0.013888889,0,,,,,0,RoR,CH,can13,1250,1200,216,Virtual_wn_52,NULL,158
+RoR_Eglisau,108700,Eglisau,53.2,,,,,0.029555556,0,,,,,0,RoR,CH,can13,149000,169000,74.5,Virtual_wn_53,NULL,159
+RoR_Reckingen,108800,Reckingen,38.5,,,,,0.019097222,0,,,,,0,RoR,CH,can1,122000,141000,20,Virtual_wn_54,NULL,160
+RoR_Albbruck,109000,Albbruck,84,,,,,0.02250326,0,,,,,0,RoR,CH,can1,237600,290400,39,Virtual_wn_55,NULL,161
+RoR_Laufenburg,109100,Laufenburg,106,,,,,0.021730217,0,,,,,0,RoR,CH,can1,267000,363000,110,Virtual_wn_56,NULL,162
+RoR_Saeckingen,109200,Saeckingen,72,,,,,0.013793103,0,,,,,0,RoR,CH,can1,212000,268000,40,Virtual_wn_57,NULL,163
+RoR_Ryburg-Schwoerstadt,109300,Ryburg-Schwoerstadt,120,,,,,0.02283105,0,,,,,0,RoR,CH,can1,308200,391800,94,Virtual_wn_58,NULL,164
+RoR_Rheinfelden,109400,Rheinfelden,100,,,,,0.018518519,0,,,,,0,RoR,CH,can1,250000,350000,65.1,Virtual_wn_59,NULL,165
+RoR_Augst,109500,Augst,31,,,,,0.011481481,0,,,,,0,RoR,CH,can4,83000,117000,263,Virtual_wn_60,NULL,166
+RoR_Wyhlen,109600,Wyhlen,38.5,,,,,0.014259259,0,,,,,0,RoR,CH,can4,83600,116900,65.2,Virtual_wn_61,NULL,167
+RoR_Birsfelden,109700,Birsfelden,97.5,,,,,0.018055556,0,,,,,0,RoR,CH,can4,245000,312000,19,Virtual_wn_62,NULL,168
+RoR_Juramill,109925,Juramill,0.32,,,,,0.005925926,0,,,,,0,RoR,CH,can4,800,800,278,Virtual_wn_63,NULL,169
+RoR_Laufen (Wasserfall),109950,Laufen (Wasserfall),0.72,,,,,0.01,0,,,,,0,RoR,CH,can4,1540,1360,273.2,Virtual_wn_64,NULL,170
+RoR_Zwingen,110000,Zwingen,0.34,,,,,0.009837963,0,,,,,0,RoR,CH,can4,1000,900,21,Virtual_wn_65,NULL,171
+RoR_Nenzlingen,110100,Nenzlingen,0.32,,,,,0.008080808,0,,,,,0,RoR,CH,can4,560,540,150.1,Virtual_wn_66,NULL,172
+RoR_Moos,110200,Moos,0.98,,,,,0.022685185,0,,,,,0,RoR,CH,can4,3100,2100,150.3,Virtual_wn_67,NULL,173
+RoR_Buettenen II,110300,Buettenen II,0.45,,,,,0.019230769,0,,,,,0,RoR,CH,can4,1150,1000,150.2,Virtual_wn_68,NULL,174
+RoR_Buettenen I,110400,Buettenen I,0.5,,,,,0.021367521,0,,,,,0,RoR,CH,can4,1700,1000,150.2,Virtual_wn_69,NULL,174
+RoR_Dornachbrugg,110450,Dornachbrugg,1.54,,,,,0.021388889,0,,,,,0,RoR,CH,can4,3820,3120,273.1,Virtual_wn_70,NULL,176
+RoR_Neuewelt,110475,Neuewelt,1.05,,,,,0.016666667,0,,,,,0,RoR,CH,can4,2100,1460,67,Virtual_wn_71,NULL,177
+Pump_Grimsel II Ost,200100,Grimsel II Ost,382,,,,,1.070874514,392,,,,,1.427832685,Pump,CH,can3,0,0,200,Oberaarsee,Grimselsee,25
+Pump_Grimsel I (Oberaar),200200,Grimsel I (Oberaar),34,,,,,1.435285955,0,,,,,0,Pump,CH,can3,37400,36600,200,Oberaarsee,Räterichsbodensee,25
+Dam_Grimsel I (Grimselsee),200300,Grimsel I (Grimselsee),26.5,,,,,0.364411441,0,,,,,0,Dam,CH,can3,14700,18100,200,Grimselsee,Räterichsbodensee,25
+Dam_Handeck I,200400,Handeck I,48,,,,,1.26984127,0,,,,,0,Dam,CH,can3,68500,99000,200,Gelmersee,Hangholzbecken (Ausgleichbecken Handeck),25
+Dam_Handeck II,200500,Handeck II,215,,,,,1.047590763,0,,,,,0,Dam,CH,can3,85400,176400,200,Räterichsbodensee,Hangholzbecken (Ausgleichbecken Handeck),25
+Pump_Handeck III,200600,Handeck III,55,,,,,1.047598492,47.8,,,,,1.39679799,Pump,CH,can3,13300,26000,200,Räterichsbodensee,Hangholzbecken (Ausgleichbecken Handeck),25
+Pump_Handeck III-Trift (Pumpzentr.),200700,Handeck III-Trift (Pumpzentr.),0,,,,,1.047594503,5.2,,,,,1.396792671,Pump,CH,can3,0,0,200,Räterichsbodensee,Hangholzbecken (Ausgleichbecken Handeck),25
+Dam_Innertkirchen I,200800,Innertkirchen I,370,,,,,1.489533011,0,,,,,0,Dam,CH,can3,231900,487900,200,Hangholzbecken (Ausgleichbecken Handeck),NULL,25
+Dam_Fuhren,200900,Fuhren,9.5,,,,,0.879636423,0,,,,,0,Dam,CH,can3,2800,14300,200,Ausgleichsbecken Teuflaui,Virtual_wn_2,25
+Pump_Fuhren (Pumpzentrale),201000,Fuhren (Pumpzentrale),0,,,,,0.879632773,4.4,,,,,1.172843698,Pump,CH,can3,0,0,200,Ausgleichsbecken Teuflaui,Virtual_wn_2,25
+Dam_Hopflauenen (Trift),201100,Hopflauenen (Trift),85.2,,,,,1.002824859,0,,,,,0,Dam,CH,can3,36800,208600,200,Virtual_wn_2,Ausgleichsbecken Hopflauenen,25
+RoR_Hopflauenen (Leimboden),201200,Hopflauenen (Leimboden),5.8,,,,,0.732323232,0,,,,,0,RoR,CH,can3,5600,16200,200,Ausgleichsbecken Leimboden,Ausgleichsbecken Hopflauenen,25
+Dam_Innertkirchen II,201300,Innertkirchen II,54.2,,,,,0.510357815,0,,,,,0,Dam,CH,can3,26700,134600,200,Ausgleichsbecken Hopflauenen,NULL,25
+RoR_Meiringen II,201400,Meiringen II,1.5,,,,,1.157407407,0,,,,,0,RoR,CH,can3,2500,5500,137,Virtual_wn_72,Virtual_wn_73,178
+RoR_Meiringen I,201500,Meiringen I,0.93,,,,,0.430555556,0,,,,,0,RoR,CH,can3,2100,3500,137,Virtual_wn_73,NULL,178
+RoR_Reichenbach II,201600,Reichenbach II,1.6,,,,,0.444444444,0,,,,,0,RoR,CH,can3,2000,10000,22,Virtual_wn_74,NULL,102
+RoR_Reichenbach I,201700,Reichenbach I,2.72,,,,,0.581196581,0,,,,,0,RoR,CH,can3,700,6000,22,Ausgleichsbecken Zwirgi,Virtual_wn_74,102
+RoR_Luetschental,202000,Luetschental,11.9,,,,,0.388888889,0,,,,,0,RoR,CH,can3,15600,46800,68,Virtual_wn_75,NULL,181
+RoR_Stechelberg,202100,Stechelberg,4.3,,,,,0.597222222,0,,,,,0,RoR,CH,can17,5100,16600,138,Virtual_wn_76,NULL,182
+RoR_Interlaken,202200,Interlaken,0.8,,,,,0.007407407,0,,,,,0,RoR,CH,can3,2800,2300,139,Virtual_wn_77,NULL,183
+RoR_Interlaken-Dotierzentrale,202275,Interlaken-Dotierzentrale,0.3,,,,,0.005555556,0,,,,,0,RoR,CH,can3,600,600,139,Virtual_wn_78,NULL,183
+RoR_Kandersteg (Zilfuri),202300,Kandersteg (Zilfuri),1.1,,,,,0.509259259,0,,,,,0,RoR,CH,can3,3350,3530,25,Virtual_wn_79,Virtual_wn_80,185
+RoR_Kandersteg (Dorf),202350,Kandersteg (Dorf),1,,,,,0.231481481,0,,,,,0,RoR,CH,can3,2280,2780,25,Virtual_wn_80,NULL,185
+RoR_Kandergrund,202400,Kandergrund,18.8,,,,,0.715372907,0,,,,,0,RoR,CH,can3,27700,71250,183.1,Virtual_wn_81,NULL,187
+RoR_Spiez,202500,Spiez,18.4,,,,,0.159722222,0,,,,,0,RoR,CH,can3,42900,61740,183.6,Ausgleichsweiher Spiezmoos,NULL,63
+Dam_Klusi,202600,Klusi,1.3,,,,,2.00617284,0,,,,,0,Dam,CH,can3,2000,1640,24.2,Hinterstockensee,NULL,63
+RoR_Erlenbach,202700,Erlenbach,18,,,,,0.78125,0,,,,,0,RoR,CH,can3,12100,40700,24.1,Ägelsee (Egelsee),NULL,63
+RoR_Simmenfluh,202800,Simmenfluh,9,,,,,0.113636364,0,,,,,0,RoR,CH,can3,13700,31800,24.1,Stausee Wimmis / Port  (AGB Simmenporte),NULL,63
+RoR_Thun-Aare 1964,202900,Thun-Aare 1964,6.2,,,,,0.01436939,0,,,,,0,RoR,CH,can3,10840,21200,26,Virtual_wn_82,NULL,188
+RoR_Thun-Aare Gewerbekanal,203000,Thun-Aare Gewerbekanal,2.8,,,,,0.014366591,0,,,,,0,RoR,CH,can3,2800,5600,26,Virtual_wn_82,NULL,188
+RoR_Matte,203300,Matte,1.16,,,,,0.008055556,0,,,,,0,RoR,CH,can3,3800,3000,101.1,Virtual_wn_83,NULL,190
+RoR_Engehalde-Dotierzentrale,203350,Engehalde-Dotierzentrale,0.42,,,,,0.007291667,0,,,,,0,RoR,CH,can3,1300,1300,101.2,Virtual_wn_84,NULL,191
+RoR_Felsenau,203400,Felsenau,11.5,,,,,0.031944444,0,,,,,0,RoR,CH,can3,28000,45000,101.2,Virtual_wn_85,NULL,191
+RoR_Muehleberg,203500,Muehleberg,40,,,,,0.038182512,0,,,,,0,RoR,CH,can3,52750,107050,183.4,Virtual_wn_86,NULL,193
+Dam_Innergsteig,203600,Innergsteig,18,,,,,2,0,,,,,0,Dam,CH,can3,9000,26000,41,Lac de Sénin (Sanetsch),NULL,56
+RoR_Montbovon,203800,Montbovon,28.5,,,,,0.197916667,0,,,,,0,RoR,CH,can6,18000,61000,176.2,Lac de Vernex,Lac de Montbovon (=Lac de Lessoc),57
+RoR_Lessoc,203900,Lessoc,8,,,,,0.054200542,0,,,,,0,RoR,CH,can5,6000,16000,176.2,Lac de Montbovon (=Lac de Lessoc),NULL,57
+RoR_Ste. Anne,203950,Ste. Anne,2.9,,,,,0.719246032,0,,,,,0,RoR,CH,can5,2000,4500,285,Virtual_wn_87,NULL,194
+RoR_Broc,204200,Broc,23.5,,,,,0.251068376,0,,,,,0,RoR,CH,can5,19000,51000,176.1,Lac de Montsalvens,NULL,58
+RoR_Rossens-Centrale de dotation 1,204300,Rossens-Centrale de dotation 1,0.67,,,,,0.186111111,0,,,,,0,RoR,CH,can5,0,1630,176.3,Virtual_wn_88,NULL,59
+RoR_Rossens-Centrale de dotation 2,204350,Rossens-Centrale de dotation 2,1.6,,,,,0.177777778,0,,,,,0,RoR,CH,can5,5500,5500,176.3,Virtual_wn_89,NULL,59
+Dam_Hauterive,204400,Hauterive,57.5,,,,,0.212962963,0,,,,,0,Dam,CH,can5,75000,130000,176.3,Lac de la Gruyère,NULL,59
+RoR_Maigrauge-Centale de dotation,204500,Maigrauge-Centale de dotation,0.55,,,,,0.038194444,0,,,,,0,RoR,CH,can5,2000,2000,176.4,Virtual_wn_90,NULL,197
+Dam_Oelberg,204600,Oelberg,16.9,,,,,0.047418631,0,,,,,0,Dam,CH,can5,17000,33000,176.4,Virtual_wn_91,NULL,197
+Dam_Schiffenen,204700,Schiffenen,52,,,,,0.106995885,0,,,,,0,Dam,CH,can5,60000,79000,176.5,Schiffenensee,NULL,112
+RoR_Niederried,204800,Niederried,14.4,,,,,0.023529412,0,,,,,0,RoR,CH,can3,33300,47900,183.2,Virtual_wn_92,NULL,199
+RoR_Aarberg,204900,Aarberg,14.6,,,,,0.023856209,0,,,,,0,RoR,CH,can3,36020,54030,183.3,Virtual_wn_93,NULL,200
+RoR_Kallnach,205000,Kallnach,8.1,,,,,0.05,0,,,,,0,RoR,CH,can5,19200,30050,183.2,Virtual_wn_94,NULL,199
+RoR_Hagneck,205100,Hagneck,3.41,,,,,0.022595666,0,,,,,0,RoR,CH,can5,5000,6000,274.2,Virtual_wn_95,NULL,202
+Dam_La Dernier,205200,La Dernier,27,,,,,0.576923077,0,,,,,0,Dam,CH,can6,22000,9000,158.5,Lac de Joux,NULL,60
+RoR_La Jougnenaz,205300,La Jougnenaz,2.1,,,,,0.097222222,0,,,,,0,RoR,CH,can6,3800,2200,113,Retenue de Jougnenaz,Lac du Mirroir (Barrage du Day),61
+RoR_Les Clees,205400,Les Clees,27,,,,,0.357142857,0,,,,,0,RoR,CH,can6,47500,55500,158.4,Lac du Mirroir (Barrage du Day),Virtual_wn_3,61
+RoR_Montcherand,205500,Montcherand,14,,,,,0.204678363,0,,,,,0,RoR,CH,can6,26500,30500,158.4,Virtual_wn_3,NULL,61
+RoR_Le Chalet,205600,Le Chalet,2.32,,,,,0.035802469,0,,,,,0,RoR,CH,can6,5700,3600,114,Virtual_wn_96,NULL,203
+RoR_St. Sulpice,205850,St. Sulpice,3.8,,,,,0.084444444,0,,,,,0,RoR,CH,can6,5000,4000,115,Virtual_wn_97,NULL,204
+RoR_Combe-Garot,206200,Combe-Garot,4.49,,,,,0.20787037,0,,,,,0,RoR,CH,can5,12150,10450,170,Virtual_wn_98,NULL,205
+RoR_Usine du Chanet,206300,Usine du Chanet,4.2,,,,,0.159817352,0,,,,,0,RoR,CH,can5,12500,11800,116,Virtual_wn_99,NULL,206
+RoR_Bruegg,206950,Bruegg,3.6,,,,,0.004557885,0,,,,,0,RoR,CH,can3,9590,11730,274.1,Virtual_wn_100,NULL,207
+RoR_Hagerhuesli,207000,Hagerhuesli,0.48,,,,,0.011111111,0,,,,,0,RoR,CH,can14,1300,1200,42.3,Virtual_wn_101,NULL,208
+RoR_Baetterkinden,207100,Baetterkinden,0.38,,,,,0.008796296,0,,,,,0,RoR,CH,can14,1100,1100,42.2,Virtual_wn_102,NULL,209
+RoR_Utzenstorf,207200,Utzenstorf,0.35,,,,,0.008101852,0,,,,,0,RoR,CH,can14,900,900,42.1,Virtual_wn_103,NULL,210
+RoR_Gerlafingen I,207300,Gerlafingen I,0.5,,,,,0.011574074,0,,,,,0,RoR,CH,can14,1000,1600,217,Virtual_wn_104,NULL,211
+RoR_Biberist,207400,Biberist,0.49,,,,,0.011342593,0,,,,,0,RoR,CH,can14,1500,1200,69,Virtual_wn_105,NULL,212
+RoR_Emmenhof,207500,Emmenhof,0.32,,,,,0.007407407,0,,,,,0,RoR,CH,can14,800,900,43,Virtual_wn_106,NULL,213
+RoR_Luterbach I,207600,Luterbach I,0.82,,,,,0.017521368,0,,,,,0,RoR,CH,can14,2700,2500,44,Virtual_wn_107,NULL,214
+RoR_Luterbach II,207650,Luterbach II,0.3,,,,,0.006944444,0,,,,,0,RoR,CH,can3,770,720,144.3,Virtual_wn_108,NULL,215
+RoR_Flumenthal,207700,Flumenthal,21.7,,,,,0.017222222,0,,,,,0,RoR,CH,can3,65000,82000,29.3,Virtual_wn_109,NULL,216
+RoR_Bannwil,207800,Bannwil,26.8,,,,,0.017113665,0,,,,,0,RoR,CH,can3,67170,82090,183.5,Virtual_wn_110,NULL,217
+RoR_Wynau,207900,Wynau,10.4,,,,,0.011417835,0,,,,,0,RoR,CH,can3,22000,29000,28,Virtual_wn_111,NULL,218
+RoR_Schwarzhaeusern,208000,Schwarzhaeusern,6.1,,,,,0.011416859,0,,,,,0,RoR,CH,can3,18400,22600,28,Virtual_wn_111,NULL,218
+RoR_Ruppoldingen,208100,Ruppoldingen,21.5,,,,,0.012573099,0,,,,,0,RoR,CH,can1,50600,64400,29.4,Virtual_wn_112,NULL,220
+RoR_Goesgen,208300,Goesgen,49,,,,,0.035818713,0,,,,,0,RoR,CH,can14,134200,168800,29.2,Virtual_wn_113,NULL,221
+RoR_Aarau Stadt,208400,Aarau Stadt,16.08,,,,,0.011336717,0,,,,,0,RoR,CH,can14,47900,61200,45,Virtual_wn_114,NULL,222
+RoR_Ruechlig,208500,Ruechlig,8.8,,,,,0.006790123,0,,,,,0,RoR,CH,can1,24000,30000,46,Virtual_wn_115,NULL,223
+RoR_Rupperswil,208600,Rupperswil,39.3,,,,,0.022188347,0,,,,,0,RoR,CH,can1,98100,122500,241,Virtual_wn_116,NULL,224
+RoR_Rupperswil-Dotierzentrale,208650,Rupperswil-Dotierzentrale,1.67,,,,,0.018555556,0,,,,,0,RoR,CH,can1,4000,6000,241,Virtual_wn_117,NULL,224
+RoR_Wildegg-Brugg-Dotierzentrale,208750,Wildegg-Brugg-Dotierzentrale,0.6,,,,,0.014492754,0,,,,,0,RoR,CH,can1,1200,2300,74.3,Virtual_wn_118,NULL,226
+RoR_Wildegg-Brugg,208800,Wildegg-Brugg,49.7,,,,,0.033672087,0,,,,,0,RoR,CH,can1,135100,154400,74.3,Virtual_wn_119,NULL,226
+RoR_Beznau-Wehrkraftwerk,208850,Beznau-Wehrkraftwerk,6,,,,,0.011904762,0,,,,,0,RoR,CH,can1,15000,20500,74.4,Virtual_wn_120,NULL,228
+RoR_Beznau,208900,Beznau,19.5,,,,,0.012958533,0,,,,,0,RoR,CH,can1,56600,63300,74.4,Virtual_wn_121,NULL,228
+RoR_Klingnau,209000,Klingnau,37.5,,,,,0.012860082,0,,,,,0,RoR,CH,can1,98000,132000,102,Virtual_wn_122,NULL,230
+RoR_Hospental,300100,Hospental,1.95,,,,,0.338541667,0,,,,,0,RoR,CH,can11,1600,5300,152.3,Virtual_wn_123,NULL,231
+RoR_Realp,300200,Realp,0.89,,,,,1.236111111,0,,,,,0,RoR,CH,can11,700,3300,152.1,Virtual_wn_124,NULL,232
+RoR_Andermatt,300300,Andermatt,2.7,,,,,0.9375,0,,,,,0,RoR,CH,can11,3600,7400,152.2,Oberalpsee,NULL,74
+Dam_Goschenen (Goescheneralp),300400,Goschenen (Goescheneralp),160,,,,,1.481481481,0,,,,,0,Dam,CH,can11,126000,156000,140.1,Göscheneralpsee,Göschener Reussstau (Ausgleichsbecken Göschenen),73
+RoR_Goschenen (Andermatt),300500,Goschenen (Andermatt),32.5,,,,,0.752314815,0,,,,,0,RoR,CH,can11,42000,102000,140.2,Virtual_wn_19,Göschener Reussstau (Ausgleichsbecken Göschenen),73
+RoR_Pfaffensprung,300700,Pfaffensprung,56,,,,,0.598290598,0,,,,,0,RoR,CH,can11,100000,190000,141,Göschener Reussstau (Ausgleichsbecken Göschenen),Stau Pfaffensprung,73
+RoR_Amsteg-Dotierzentrale,300750,Amsteg-Dotierzentrale,0.72,,,,,0.05,0,,,,,0,RoR,CH,can11,1100,2200,250.4,Virtual_wn_125,NULL,73
+RoR_Gurtnellen,300800,Gurtnellen,5.6,,,,,1.111111111,0,,,,,0,RoR,CH,can11,6290,19780,48.4,Virtual_wn_126,NULL,234
+RoR_Amsteg,300900,Amsteg,120,,,,,0.666666667,0,,,,,0,RoR,CH,can11,124000,271000,250.4,Stau Pfaffensprung,NULL,73
+RoR_Amsteg Dotierzentrale,300950,Amsteg Dotierzentrale,1.73,,,,,0.01044686,0,,,,,0,RoR,CH,can11,1500,5050,250.4,Virtual_wn_127,NULL,73
+RoR_Arniberg,301000,Arniberg,13,,,,,2.00617284,0,,,,,0,RoR,CH,can11,9720,37500,48.3,Arnisee,NULL,71
+RoR_Bocki II,301100,Bocki II,7,,,,,2.34270415,0,,,,,0,RoR,CH,can11,5900,19600,95,Tagesausgleichsbecken Waldnacht(er Boden),NULL,72
+RoR_Bocki I,301200,Bocki I,1.7,,,,,0.944444444,0,,,,,0,RoR,CH,can11,2400,5800,95,Virtual_wn_128,NULL,72
+RoR_Unterschaechen,301300,Unterschaechen,2.2,,,,,0.873015873,0,,,,,0,RoR,CH,can11,2140,6010,49,Ausgleichsbecken Lehmatt,Virtual_wn_4,70
+RoR_Buerglen (Unterschaechen),301400,Buerglen (Unterschaechen),23.5,,,,,1.1352657,0,,,,,0,RoR,CH,can11,19650,72050,48.1,Virtual_wn_4,NULL,70
+RoR_Buerglen (Loreto),301500,Buerglen (Loreto),1.5,,,,,0.173611111,0,,,,,0,RoR,CH,can11,2500,5200,48.1,Virtual_wn_129,NULL,70
+RoR_Isenthal,301600,Isenthal,1.18,,,,,0.409722222,0,,,,,0,RoR,CH,can18,1000,3800,48.2,Virtual_wn_18,Isenthaler Stau (See),122
+RoR_Bolzbach,301700,Bolzbach,12,,,,,0.877192982,0,,,,,0,RoR,CH,can18,11250,33750,48.2,Isenthaler Stau (See),NULL,122
+RoR_Sahli (Glattalp),301900,Sahli (Glattalp),9,,,,,1.666666667,0,,,,,0,RoR,CH,can7,2700,13600,50.1,Glattalpsee,Ausgleichsbecken Sahliboden,75
+RoR_Sahli (Ruosalp),301800,Sahli (Ruosalp),4.5,,,,,0.625,0,,,,,0,RoR,CH,can7,4100,15200,50.1,Waldialp (Waldisee),Ausgleichsbecken Sahliboden,75
+RoR_Seeberg,302000,Seeberg,15,,,,,0.833333333,0,,,,,0,RoR,CH,can7,10900,43800,50.1,Ausgleichsbecken Sahliboden,NULL,75
+RoR_Balm (Muota),302100,Balm (Muota),8.5,,,,,0.314814815,0,,,,,0,RoR,CH,can18,10000,31200,50.2,Ausgleichsbecken Riedplätz,NULL,77
+RoR_Balm (Hueribach),302200,Balm (Hueribach),4.5,,,,,1.25,0,,,,,0,RoR,CH,can18,4900,13500,50.2,Ausgleichsbecken Lipplisbüel,NULL,77
+RoR_Wernisberg,302300,Wernisberg,19.8,,,,,0.183333333,0,,,,,0,RoR,CH,can18,20400,55500,50.3,Muota Stau (Schlattli) (AGB Selgis),NULL,79
+Dam_Engelberg,302800,Engelberg,8.4,,,,,1.505376344,0,,,,,0,Dam,CH,can11,2700,16100,52.1,Trübsee,Eugenisee,66
+RoR_Arni,302900,Arni,3,,,,,0.833333333,0,,,,,0,RoR,CH,can11,400,5600,53.1,Virtual_wn_17,Eugenisee,66
+RoR_Obermatt,303000,Obermatt,29.7,,,,,0.75,0,,,,,0,RoR,CH,can11,26000,99000,53.2,Eugenisee,Virtual_wn_5,66
+RoR_Obermatt (Nebenkraftwerk),303100,Obermatt (Nebenkraftwerk),1.8,,,,,0.045454545,0,,,,,0,RoR,CH,can11,1000,4000,53.2,Virtual_wn_5,Ausgleichsbecken Obermatt,66
+RoR_Dallenwil,303200,Dallenwil,17,,,,,0.342190016,0,,,,,0,RoR,CH,can11,17500,58000,52.2,Ausgleichsbecken Obermatt,NULL,66
+Dam_Oberrickenbach,303300,Oberrickenbach,6.8,,,,,1.888888889,0,,,,,0,Dam,CH,can11,4400,9800,54.1,Bannalpsee,NULL,67
+RoR_Wolfenschiessen,303400,Wolfenschiessen,6.6,,,,,0.705128205,0,,,,,0,RoR,CH,can11,6600,13700,54.2,Secklisbach Stau,NULL,68
+Dam_Unteraa,303700,Unteraa,54,,,,,0.46875,0,,,,,0,Dam,CH,can11,32500,39500,131.2,Lungerersee,NULL,120
+Dam_Hugschwendi,303800,Hugschwendi,14,,,,,1.944444444,0,,,,,0,Dam,CH,can11,18000,19000,131.1,Melchsee,NULL,65
+RoR_Eichi,304000,Eichi,2.2,,,,,0.050925926,0,,,,,0,RoR,CH,can9,6680,7720,142,Wichelsee,NULL,69
+RoR_Muehlenplatz,304150,Muehlenplatz,0.83,,,,,0.003975096,0,,,,,0,RoR,CH,can9,2000,1000,279,Virtual_wn_130,NULL,238
+RoR_Thorenberg,304300,Thorenberg,0.75,,,,,0.029761905,0,,,,,0,RoR,CH,can9,2200,2600,70,Virtual_wn_131,NULL,239
+RoR_Emmenweid,304400,Emmenweid,1.08,,,,,0.025,0,,,,,0,RoR,CH,can9,1590,2960,143.1,Virtual_wn_132,NULL,240
+RoR_Rathausen,304500,Rathausen,2,,,,,0.012345679,0,,,,,0,RoR,CH,can9,7880,8020,143.2,Virtual_wn_133,NULL,241
+RoR_Perlen I (WTA HF),304600,Perlen I (WTA HF),0.96,,,,,0.005925926,0,,,,,0,RoR,CH,can9,4000,4000,56,Virtual_wn_134,Virtual_wn_135,242
+RoR_Perlen II (WTA PF),304700,Perlen II (WTA PF),1.09,,,,,0.006728395,0,,,,,0,RoR,CH,can9,3900,3900,56,Virtual_wn_135,NULL,242
+RoR_Lorzentobel II,304800,Lorzentobel II,1.7,,,,,0.162835249,0,,,,,0,RoR,CH,can18,3800,4200,132.1,Virtual_wn_136,NULL,244
+RoR_Lorzentobel I,304900,Lorzentobel I,1.2,,,,,0.104166667,0,,,,,0,RoR,CH,can18,2600,3200,132.1,Virtual_wn_137,NULL,244
+RoR_Baar,305000,Baar,1.9,,,,,0.211111111,0,,,,,0,RoR,CH,can18,4700,5300,132.2,Virtual_wn_138,NULL,246
+RoR_Bremgarten-Zufikon,305300,Bremgarten-Zufikon,19.5,,,,,0.027083333,0,,,,,0,RoR,CH,can1,37000,69000,58,Virtual_wn_139,Virtual_wn_140,247
+RoR_Bruggmuehle,305350,Bruggmuehle,0.54,,,,,0.005,0,,,,,0,RoR,CH,can1,2110,1400,58,Virtual_wn_140,NULL,247
+RoR_Windisch/Spinnerei Kunz AG,305400,Windisch/Spinnerei Kunz AG,2.01,,,,,0.010151515,0,,,,,0,RoR,CH,can1,5800,6400,156.2,Virtual_wn_141,NULL,249
+Dam_Muttsee,400100,Muttsee,4,,,,,0.694444444,0,,,,,0,Dam,CH,can7,6400,1400,207,Muttsee,Limmerensee (Stausee Limmernboden),80
+Pump_Tierfehd (Limmern),400200,Tierfehd (Limmern),255,,,,,2.425139693,34,,,,,3.23351959,Pump,CH,can7,172000,111700,207,Limmerensee (Stausee Limmernboden),Ausgleichsbecken Tierfehd,80
+RoR_Tierfehd (Hintersand),400300,Tierfehd (Hintersand),40,,,,,1.111111111,0,,,,,0,RoR,CH,can7,11500,71500,207,Ausgleichsbecken Hintersand,Ausgleichsbecken Tierfehd,80
+Dam_Linthal (Limmern),400400,Linthal (Limmern),33.5,,,,,0.290798611,0,,,,,0,Dam,CH,can7,30700,50400,207,Ausgleichsbecken Tierfehd,NULL,80
+RoR_Fätschbach,400500,Fätschbach,14.5,,,,,1.342592593,0,,,,,0,RoR,CH,can7,20100,54300,74.2,Fassungsbecken Fätschbachwerk,NULL,80
+RoR_Bebie,400600,Bebie,0.4,,,,,0.022222222,0,,,,,0,RoR,CH,can7,1170,1100,59,Virtual_wn_142,NULL,250
+RoR_Linthal (Kunz),400700,Linthal (Kunz),1.6,,,,,0.02962963,0,,,,,0,RoR,CH,can7,3640,4500,156.3,Virtual_wn_143,NULL,251
+RoR_Brummbach,400800,Brummbach,2.44,,,,,0.968253968,0,,,,,0,RoR,CH,can7,5000,7600,156.1,Virtual_wn_144,NULL,252
+RoR_Rueti,400900,Rueti,0.32,,,,,0.022222222,0,,,,,0,RoR,CH,can7,1000,1200,195,Virtual_wn_145,NULL,253
+RoR_Diesbach (Linth),400950,Diesbach (Linth),0.88,,,,,0.02037037,0,,,,,0,RoR,CH,can7,2000,3100,284,Virtual_wn_146,NULL,254
+RoR_Haetzingen,401000,Haetzingen,0.88,,,,,0.030555556,0,,,,,0,RoR,CH,can7,2300,4400,61,Virtual_wn_147,NULL,255
+RoR_Luchsingen,401100,Luchsingen,3.3,,,,,1.091269841,0,,,,,0,RoR,CH,can7,4000,9500,103,Virtual_wn_148,NULL,256
+RoR_Leuggelbach,401150,Leuggelbach,1,,,,,1.388888889,0,,,,,0,RoR,CH,can7,2500,3900,72.2,Virtual_wn_149,NULL,257
+RoR_Haslen,401200,Haslen,0.88,,,,,0.023148148,0,,,,,0,RoR,CH,can7,2760,3240,60,Virtual_wn_150,NULL,258
+RoR_Schwanden (Sernf),401400,Schwanden (Sernf),16.5,,,,,0.520833333,0,,,,,0,RoR,CH,can7,26000,59000,72.1,Ausgleichsbecken Sernf-Werk (AGB Engi),NULL,83
+Dam_Schwanden (Niederenbach),401500,Schwanden (Niederenbach),33.5,,,,,2.584876543,0,,,,,0,Dam,CH,can7,13000,27000,72.1,Stausee Garichti (Garichte/Garichten),NULL,83
+RoR_Schwanden (Gemeinde),401600,Schwanden (Gemeinde),1.8,,,,,0.892857143,0,,,,,0,RoR,CH,can7,4500,6000,73,Virtual_wn_151,NULL,259
+Dam_Am Loentsch,401900,Am Loentsch,60,,,,,0.833333333,0,,,,,0,Dam,CH,can12,47500,71600,74.1,Klöntaler See,NULL,88
+RoR_Netstal,402000,Netstal,1.4,,,,,0.011111111,0,,,,,0,RoR,CH,can12,2500,3700,185,Virtual_wn_152,NULL,260
+RoR_Tobel,402100,Tobel,0.95,,,,,0.094246032,0,,,,,0,RoR,CH,can12,1700,2200,104.2,Virtual_wn_153,NULL,261
+RoR_Mels (Spinnerei),402200,Mels (Spinnerei),3.4,,,,,0.403608737,0,,,,,0,RoR,CH,can12,5260,8740,75,Virtual_wn_154,NULL,262
+RoR_Mels (Halden),402300,Mels (Halden),0.5,,,,,0.055555556,0,,,,,0,RoR,CH,can12,960,1680,144.1,Virtual_wn_155,NULL,263
+RoR_Plons,402400,Plons,4.3,,,,,0.99537037,0,,,,,0,RoR,CH,can12,5000,13500,104.1,Chapfensee,NULL,100
+RoR_Flums (Pravizi I),402500,Flums (Pravizi I),5.4,,,,,0.767836842,0,,,,,0,RoR,CH,can12,6470,17330,76,Virtual_wn_156,Virtual_wn_157,264
+RoR_Flums (Pravizi II),402600,Flums (Pravizi II),0.75,,,,,0.767833738,0,,,,,0,RoR,CH,can12,1510,1830,76,Virtual_wn_156,Virtual_wn_157,264
+RoR_Flums (Felsen),402700,Flums (Felsen),1.45,,,,,0.322222222,0,,,,,0,RoR,CH,can12,3000,5000,76,Virtual_wn_157,NULL,264
+Dam_Merlen,403000,Merlen,0.4,,,,,0.148148148,0,,,,,0,Dam,CH,can12,530,1390,145,Murgsee (Oberer Murgsee),AGB Merlen,99
+Dam_Plaetz I,403100,Plaetz I,0.5,,,,,0.878607319,0,,,,,0,Dam,CH,can12,520,1610,145,AGB Merlen,Ausgleichsbecken Plätz,99
+Dam_Plaetz,403150,Plaetz,6.4,,,,,0.878609636,0,,,,,0,Dam,CH,can12,5300,18400,145,AGB Merlen,Ausgleichsbecken Plätz,99
+RoR_Goedis,403300,Goedis,2.8,,,,,0.388888889,0,,,,,0,RoR,CH,can12,4400,9000,145,Ausgleichsbecken Plätz,Ausgleichsbecken Luchsberg,99
+RoR_Murg I,403400,Murg I,2.32,,,,,0.268518519,0,,,,,0,RoR,CH,can12,3700,7800,77,Ausgleichsbecken Luchsberg,NULL,99
+RoR_Muslen,403500,Muslen,1.58,,,,,0.438888889,0,,,,,0,RoR,CH,can12,1300,2400,36.2,Muslen (Zand) Stau,NULL,98
+RoR_Ruetiberg (Obersee),403600,Ruetiberg (Obersee),0.93,,,,,0.322916667,0,,,,,0,RoR,CH,can12,1500,3200,186,Obersee,AGB Rütiberg,89
+RoR_Ruetiberg (Braendbach),403700,Ruetiberg (Braendbach),0.8,,,,,0.584795322,0,,,,,0,RoR,CH,can12,1300,2500,186,Brändbach-Becken,AGB Rütiberg,89
+RoR_Risi,403800,Risi,4.2,,,,,0.833333333,0,,,,,0,RoR,CH,can12,6600,12100,186,AGB Rütiberg,NULL,89
+Pump_Rempen,404100,Rempen,60,,,,,0.555555556,16,,,,,0.740740741,Pump,CH,can18,50000,10000,79,Wägitaler See,Stausee Rempen,91
+Dam_Siebnen,404200,Siebnen,48,,,,,0.416666667,0,,,,,0,Dam,CH,can18,40000,20000,79,Stausee Rempen,NULL,91
+Pump_Altendorf (Etzel),404400,Altendorf (Etzel),121,,,,,0.988562092,54,,,,,1.318082789,Pump,CH,can18,141000,112000,177,Sihlsee,NULL,92
+RoR_Schindellegi,404600,Schindellegi,0.7,,,,,0.055555556,0,,,,,0,RoR,CH,can13,2110,2070,173,Virtual_wn_158,NULL,268
+RoR_Sihl-Hoefe,404700,Sihl-Hoefe,1.4,,,,,0.097222222,0,,,,,0,RoR,CH,can13,4300,4600,174,Sihl-Höfe Stau,NULL,109
+RoR_Waldhalde,404800,Waldhalde,2.7,,,,,0.166666667,0,,,,,0,RoR,CH,can13,7600,8400,81.1,Teufenbachweiher (Tiefenbachweiher),NULL,93
+RoR_Letten,405000,Letten,4.26,,,,,0.011833333,0,,,,,0,RoR,CH,can13,9190,12440,134.7,Virtual_wn_159,NULL,269
+RoR_Hoengg,405100,Hoengg,1.3,,,,,0.007222222,0,,,,,0,RoR,CH,can13,3400,3600,134.6,Virtual_wn_160,NULL,270
+RoR_Dietikon,405200,Dietikon,2.7,,,,,0.0075,0,,,,,0,RoR,CH,can13,8800,10300,81.2,Virtual_wn_161,NULL,271
+RoR_Wettingen,405300,Wettingen,24,,,,,0.050125313,0,,,,,0,RoR,CH,can1,59300,73000,134.5,Virtual_wn_162,NULL,272
+RoR_Aue,405400,Aue,5,,,,,0.011870845,0,,,,,0,RoR,CH,can1,13000,14700,82.4,Virtual_wn_163,NULL,273
+RoR_Kappelerhof,405500,Kappelerhof,6.6,,,,,0.013095238,0,,,,,0,RoR,CH,can1,19400,22200,82.3,Virtual_wn_164,NULL,274
+RoR_Schiffmuehle,405600,Schiffmuehle,2.6,,,,,0.007602339,0,,,,,0,RoR,CH,can1,7700,8300,82.2,Virtual_wn_165,NULL,275
+RoR_Turgi,405650,Turgi,0.9,,,,,0.007142857,0,,,,,0,RoR,CH,can1,3600,3600,82.1,Virtual_wn_166,NULL,276
+RoR_BAG Turgi,405700,BAG Turgi,0.88,,,,,0.009856631,0,,,,,0,RoR,CH,can1,3300,3400,144.2,Virtual_wn_167,NULL,277
+RoR_Stroppel,405800,Stroppel,0.71,,,,,0.005976431,0,,,,,0,RoR,CH,can1,2600,2500,229,Virtual_wn_168,NULL,278
+Dam_Altstafel,500100,Altstafel,9.2,,,,,0.912698413,0,,,,,0,Dam,CH,can16,16800,4800,178,Griessee,Lago di Robièi (Robiei),16
+RoR_Merezenbach,500200,Merezenbach,1.89,,,,,1.05,0,,,,,0,RoR,CH,can3,2500,6800,221,Virtual_wn_169,NULL,279
+RoR_Wannebode,500250,Wannebode,1.9,,,,,0.329861111,0,,,,,0,RoR,CH,can17,1600,6400,260,Virtual_wn_170,NULL,280
+RoR_Rappental,500300,Rappental,1.1,,,,,0.152777778,0,,,,,0,RoR,CH,can17,600,2400,117.2,Virtual_wn_14,Staubecken Frid (Fried)(uf en egga),117
+RoR_Neubrigg,500400,Neubrigg,25,,,,,1.543209877,0,,,,,0,RoR,CH,can17,22000,68000,117.2,Staubecken Frid (Fried)(uf en egga),NULL,117
+RoR_Fieschertal,500500,Fieschertal,64,,,,,1.185185185,0,,,,,0,RoR,CH,can17,13000,129000,117.3,Virtual_wn_171,NULL,281
+RoR_Ernen,500600,Ernen,32,,,,,0.683760684,0,,,,,0,RoR,CH,can17,55200,127500,179.1,Ze Binne See (Bassin Zenbinnen),Virtual_wn_173,41
+RoR_Saflischbach,500700,Saflischbach,1.2,,,,,0.666666667,0,,,,,0,RoR,CH,can17,2000,4300,117.1,Virtual_wn_172,NULL,36
+RoR_Heiligkreuz,500800,Heiligkreuz,41,,,,,1.604068858,0,,,,,0,RoR,CH,can17,9000,47400,117.1,Kummenbord-Stau,NULL,36
+RoR_Aletsch,500900,Aletsch,35.3,,,,,1.400793651,0,,,,,0,RoR,CH,can17,16000,111500,106.1,Akkumulierbecken Massaschlucht,NULL,40
+RoR_Moerel,501000,Moerel,45,,,,,0.568181818,0,,,,,0,RoR,CH,can17,79900,192900,179.1,Virtual_wn_173,NULL,41
+RoR_Massaboden,501100,Massaboden,7.2,,,,,0.1,0,,,,,0,RoR,CH,can17,14000,29000,250.3,Virtual_wn_174,NULL,284
+Dam_Bitsch (Biel),501200,Bitsch (Biel),331,,,,,1.671717172,0,,,,,0,Dam,CH,can17,16500,547000,84,Gibidum Stausee (Gebidem),NULL,39
+Pump_Bortelalp,501350,Bortelalp,2.35,,,,,1.087962963,2.62,,,,,1.450617284,Pump,CH,can17,4220,1510,257,Bortelsee,NULL,34
+Dam_Ganterbruecke,501375,Ganterbruecke,5,,,,,1.388888889,0,,,,,0,Dam,CH,can17,9000,14200,257,Virtual_wn_175,NULL,34
+RoR_Silliboden,501400,Silliboden,6.7,,,,,1.240740741,0,,,,,0,RoR,CH,can17,15200,20300,86,Virtual_wn_176,NULL,286
+Pump_Zermeiggern,501500,Zermeiggern,74,,,,,1.081876901,0,,,,,0,Pump,CH,can17,85400,48000,87.1,Mattmark Stausee,Ausgleichsbecken Zermeiggern,38
+Pump_Zermeiggern (Pumpzentrale),501600,Zermeiggern (Pumpzentrale),0,,,,,1.081873669,46,,,,,1.442498226,Pump,CH,can17,0,0,87.1,Mattmark Stausee,Ausgleichsbecken Zermeiggern,38
+RoR_Saas Fee,501700,Saas Fee,1.5,,,,,0.416666667,0,,,,,0,RoR,CH,can17,30,170,87.2,Virtual_wn_177,NULL,287
+Dam_Stalden (KWM),501800,Stalden (KWM),180,,,,,2.5,0,,,,,0,Dam,CH,can17,215500,302900,87.1,Ausgleichsbecken Zermeiggern,NULL,38
+RoR_Riedji,502100,Riedji,0.52,,,,,0.320987654,0,,,,,0,RoR,CH,can17,900,1200,107,Virtual_wn_22,Virtual_wn_6,127
+RoR_Ackersand I,502200,Ackersand I,27,,,,,1.666666667,0,,,,,0,RoR,CH,can17,15000,85000,107,Virtual_wn_6,NULL,127
+RoR_Ackersand II,502300,Ackersand II,63,,,,,1.166666667,0,,,,,0,RoR,CH,can17,35200,127900,106.2,Ausgleichsbecken Mattsand (Akkumulierbecken),NULL,42
+RoR_Unterbaech,502400,Unterbaech,0.85,,,,,1.073232323,0,,,,,0,RoR,CH,can17,2000,3000,89,Virtual_wn_178,NULL,289
+RoR_Steg,502500,Steg,122,,,,,1.54040404,0,,,,,0,RoR,CH,can17,50000,280000,108,Lonza-Stau (Ferden),NULL,43
+Pump_Oberems,502600,Oberems,7.3,,,,,1.810524008,5.67,,,,,2.414032011,Pump,CH,can17,13200,2200,166,Unter Meretschisee,Ausgleichsbecken Oberems,46
+Pump_Meretschi (Pumpzentrale),502700,Meretschi (Pumpzentrale),0,,,,,1.810519129,0.99,,,,,2.414025505,Pump,CH,can17,0,0,166,Unter Meretschisee,Ausgleichsbecken Oberems,46
+Dam_Turtmann,502800,Turtmann,21.5,,,,,1.531339031,0,,,,,0,Dam,CH,can17,24700,45400,166,Ausgleichsbecken Oberems,NULL,46
+RoR_Dala,502900,Dala,12.3,,,,,1.423611111,0,,,,,0,RoR,CH,can17,11000,30000,90,Virtual_wn_179,NULL,290
+RoR_Chippis-Rhone,503000,Chippis-Rhone,46.4,,,,,0.207885305,0,,,,,0,RoR,CH,can17,80000,183000,179.2,Virtual_wn_180,NULL,291
+RoR_Lona,503100,Lona,1,,,,,0.694444444,0,,,,,0,RoR,CH,can17,500,1500,146,Virtual_wn_12,Lac de Moiry,115
+Pump_Motec,503200,Motec,69,,,,,1.064814815,31.7,,,,,1.419753086,Pump,CH,can17,110000,25000,146,Lac de Moiry,Ausgleichsbecken Motec,115
+Dam_Vissoie,503300,Vissoie,45,,,,,0.961538462,0,,,,,0,Dam,CH,can17,90000,120000,146,Ausgleichsbecken Motec,Ausgleichsbecken Vissoie,115
+Dam_Navisence,503400,Navisence,50,,,,,1.207729469,0,,,,,0,Dam,CH,can17,130000,160000,179.4,Ausgleichsbecken Vissoie,NULL,115
+Dam_Croix,503500,Croix,64,,,,,1.975308642,0,,,,,0,Dam,CH,can17,100000,47000,188.1,Lac de Tseuzier,Lac de la Lienne,37
+RoR_Chamarin,503600,Chamarin,0.9,,,,,0.833333333,0,,,,,0,RoR,CH,can17,0,600,188.1,Lac de Tseuzier,Lac de la Lienne,37
+Dam_St. Leonard,503700,St. Leonard,34,,,,,0.899470899,0,,,,,0,Dam,CH,can17,56000,37000,188.1,Lac de la Lienne,NULL,37
+RoR_Beulet,503800,Beulet,0.72,,,,,0.307692308,0,,,,,0,RoR,CH,can17,600,1600,188.2,Virtual_wn_181,NULL,292
+RoR_Sauterot,503900,Sauterot,4.5,,,,,1.388888889,0,,,,,0,RoR,CH,can17,7300,15200,197,La Luette,NULL,33
+RoR_Bramois (Groupes 1 a 4),504000,Bramois (Groupes 1 a 4),24,,,,,0.701754386,0,,,,,0,RoR,CH,can17,27000,54000,179.3,Virtual_wn_182,NULL,293
+RoR_Bramois (Groupe 7),504100,Bramois (Groupe 7),0.4,,,,,0.028490028,0,,,,,0,RoR,CH,can17,600,1400,179.3,Virtual_wn_183,NULL,293
+Pump_Cleuson (Centrale de pompage),504300,Cleuson (Centrale de pompage),0,,,,,4.06297705,4.1,,,,,5.417302733,Pump,CH,can17,0,0,119.2,Lac des Dix,Zmuttbach-Stau (+ unterird. AGB Bodmen),32
+RoR_Ardon,504400,Ardon,50,,,,,1.851851852,0,,,,,0,RoR,CH,can17,28000,136000,198.1,AGB Godey,NULL,47
+RoR_Balavaud,504500,Balavaud,0.45,,,,,1.136363636,0,,,,,0,RoR,CH,can17,900,1400,198.1,Virtual_wn_184,NULL,47
+Pump_Stafel (Centrale de pompage),504600,Stafel (Centrale de pompage),0,,,,,4.062984934,23.4,,,,,5.417313246,Pump,CH,can17,0,0,208,Lac des Dix,Zmuttbach-Stau (+ unterird. AGB Bodmen),32
+Pump_Z'Mutt (Centrale de pompage),504700,Z'Mutt (Centrale de pompage),0,,,,,4.062976622,83,,,,,5.417302163,Pump,CH,can17,0,0,208,Lac des Dix,Zmuttbach-Stau (+ unterird. AGB Bodmen),32
+Pump_Ferpecle (Centrale de pompage),504800,Ferpecle (Centrale de pompage),0,,,,,4.06298244,19.5,,,,,5.41730992,Pump,CH,can17,0,0,208,Lac des Dix,Zmuttbach-Stau (+ unterird. AGB Bodmen),32
+Pump_Arolla (Centrale de pompage),504900,Arolla (Centrale de pompage),0,,,,,4.062976376,43,,,,,5.417301835,Pump,CH,can17,0,0,208,Lac des Dix,Zmuttbach-Stau (+ unterird. AGB Bodmen),32
+Dam_Bieudron,504950,Bieudron,1260,,,,,4.062980644,0,,,,,0,Dam,CH,can17,1260000,520000,276,Lac des Dix,NULL,32
+Dam_Fionnay (Dixence),505000,Fionnay (Dixence),300,,,,,1.692610273,0,,,,,0,Dam,CH,can17,122000,52000,208,Lac des Dix,Virtual_wn_8,32
+Dam_Nendaz,505100,Nendaz,384,,,,,2.37037037,0,,,,,0,Dam,CH,can17,163000,61000,208,Virtual_wn_8,NULL,32
+RoR_Chanrion,505200,Chanrion,28,,,,,0.777777778,0,,,,,0,RoR,CH,can17,2400,69600,253,Virtual_wn_15,Lac de Mauvoisin,118
+Dam_Fionnay (Mauvoisin),505300,Fionnay (Mauvoisin),138,,,,,1.111111111,0,,,,,0,Dam,CH,can17,184600,101200,253,Lac de Mauvoisin,Ausgleichsbecken Fionnay,118
+Dam_Riddes,505400,Riddes,225,,,,,2.152426579,0,,,,,0,Dam,CH,can17,421600,246200,253,Ausgleichsbecken Fionnay,NULL,118
+RoR_Champsec,505700,Champsec,5.5,,,,,2.152426786,0,,,,,0,RoR,CH,can17,1600,9000,253,Ausgleichsbecken Fionnay,NULL,118
+RoR_Hospitalet,505800,Hospitalet,1.4,,,,,0.381263617,0,,,,,0,RoR,CH,can17,700,3400,222,Retenue de Hospitalet,NULL,49
+Dam_Pallazuit,505900,Pallazuit,32,,,,,0.888888889,0,,,,,0,Dam,CH,can17,38000,69000,189,Lac des Toules,Ausgleichsbecken Pallazuit,50
+RoR_Niollet I,506000,Niollet I,0.3,,,,,0.277777778,0,,,,,0,RoR,CH,can17,480,800,160.2,Lac de Champex (naturel),Virtual_wn_9,51
+RoR_Niollet II,506050,Niollet II,1.15,,,,,1.064814815,0,,,,,0,RoR,CH,can17,2300,3700,160.2,Virtual_wn_9,NULL,51
+RoR_Orsieres,506100,Orsieres,24,,,,,0.833333333,0,,,,,0,RoR,CH,can17,42600,63900,160.1,Ausgleichsbecken Pallazuit,NULL,50
+RoR_Sembrancher,506300,Sembrancher,8.5,,,,,0.347222222,0,,,,,0,RoR,CH,can17,27240,29320,158.3,Virtual_wn_185,NULL,296
+RoR_Martigny-Bourg,506400,Martigny-Bourg,13,,,,,0.354030501,0,,,,,0,RoR,CH,can17,36300,52900,119.1,Virtual_wn_186,NULL,297
+RoR_Trient,506600,Trient,1,,,,,0.173611111,0,,,,,0,RoR,CH,can17,500,1500,250.2,Virtual_wn_13,AGB Chatelard-Village (SBB),35
+Pump_Chatelard-Barberine I+II,506700,Chatelard-Barberine I+II,98,,,,,1.677724005,30,,,,,2.23696534,Pump,CH,can17,94000,54000,250.2,Lac d'Emosson,AGB Chatelard-Village (SBB),35
+Dam_Chatelard Vallorcine,506800,Chatelard Vallorcine,210,,,,,1.677715437,0,,,,,0,Dam,CH,can17,255000,155000,249,Lac d'Emosson,AGB Chatelard,35
+Pump_Chatelard Vallorcine (c.pomp.),507100,Chatelard Vallorcine (c.pomp.),0,,,,,1.677717916,80,,,,,2.236957222,Pump,CH,can17,0,0,249,Lac d'Emosson,AGB Chatelard,35
+Dam_Vernayaz (CFF),507200,Vernayaz (CFF),92,,,,,1.468710089,0,,,,,0,Dam,CH,can17,116000,124000,250.2,AGB Chatelard-Village (SBB),NULL,35
+Dam_La Batiaz,507300,La Batiaz,170,,,,,1.349206349,0,,,,,0,Dam,CH,can17,225000,190000,249,AGB Chatelard,NULL,35
+Dam_Mieville,507500,Mieville,70,,,,,2.991452991,0,,,,,0,Dam,CH,can17,63200,47100,121,Lac de Salanfe,NULL,52
+RoR_Aboyeu,507800,Aboyeu,3.2,,,,,1.93236715,0,,,,,0,RoR,CH,can17,3500,6800,199,Virtual_wn_187,NULL,298
+RoR_Lavey,507900,Lavey,70,,,,,0.088383838,0,,,,,0,RoR,CH,can6,190000,210000,122,Virtual_wn_188,NULL,299
+RoR_La Peuffeyre,508000,La Peuffeyre,22,,,,,0.925925926,0,,,,,0,RoR,CH,can6,26600,45400,158.1,Virtual_wn_189,NULL,300
+RoR_Sublin II,508200,Sublin II,2.61,,,,,4.53125,0,,,,,0,RoR,CH,can6,3500,4100,230,Virtual_wn_190,NULL,301
+RoR_Monthey (Vieze),508500,Monthey (Vieze),11.6,,,,,0.644444444,0,,,,,0,RoR,CH,can6,18500,36800,162,Virtual_wn_191,NULL,302
+RoR_Monthey (Tine),508600,Monthey (Tine),9.4,,,,,1.740740741,0,,,,,0,RoR,CH,can6,14800,24600,162,Virtual_wn_192,NULL,302
+RoR_Monthey (Commune),508650,Monthey (Commune),0.36,,,,,0.01754386,0,,,,,0,RoR,CH,can6,800,1200,266,Virtual_wn_193,NULL,304
+Dam_Diablerets,508700,Diablerets,5.2,,,,,0.825396825,0,,,,,0,Dam,CH,can6,9400,5800,158.2,Arnensee,NULL,55
+RoR_Pont de la Tine,508800,Pont de la Tine,5.3,,,,,0.588888889,0,,,,,0,RoR,CH,can6,14000,19600,163.1,Virtual_wn_194,NULL,305
+RoR_Les Farettes,508900,Les Farettes,20.3,,,,,0.867521368,0,,,,,0,RoR,CH,can6,36000,50000,163.2,Virtual_wn_195,NULL,306
+Dam_Vouvry,509000,Vouvry,7.5,,,,,2.264492754,0,,,,,0,Dam,CH,can17,3200,2920,282,Lac de Tanay,NULL,53
+Pump_Veytaux,509100,Veytaux,240,240,,,,1.944444444,256,222,,,,2.592592593,Pump,CH,can6,45300,114400,124,Lac de l'Hongrin,NULL,54
+RoR_Sonzier,509200,Sonzier,1.6,,,,,0.888888889,0,,,,,0,RoR,CH,can6,2000,4600,164.1,Virtual_wn_196,NULL,307
+RoR_Taulan,509300,Taulan,1.2,,,,,0.490196078,0,,,,,0,RoR,CH,can6,1500,1900,164.2,Virtual_wn_197,NULL,308
+RoR_Plan-Dessous,509400,Plan-Dessous,7.85,,,,,0.203790239,0,,,,,0,RoR,CH,can6,16800,10700,125,Lac Aubonne,NULL,106
+RoR_Seujet,509450,Seujet,5.6,,,,,0.003840878,0,,,,,0,RoR,CH,can6,9800,10200,148.2,Virtual_wn_198,NULL,309
+RoR_Verbois,509600,Verbois,98,,,,,0.04390681,0,,,,,0,RoR,CH,can6,211000,255000,148.1,Virtual_wn_199,NULL,310
+RoR_Chancy-Pougny,509700,Chancy-Pougny,50,,,,,0.022401434,0,,,,,0,RoR,CH,can6,115000,130000,127,Virtual_wn_200,NULL,311
+RoR_Le Chatelot-Centr. de dotation,509850,Le Chatelot-Centr. de dotation,0.95,,,,,0.131944444,0,,,,,0,RoR,CH,can5,3100,3250,167,Lac de Moron,Virtual_wn_201,62
+RoR_Le Chatelot,509900,Le Chatelot,30,,,,,0.189393939,0,,,,,0,RoR,CH,can5,57000,43000,167,Virtual_wn_201,NULL,62
+RoR_Refrain,510000,Refrain,11,,,,,0.132850242,0,,,,,0,RoR,CH,can3,32300,27700,190,Virtual_wn_202,NULL,313
+RoR_La Goule,510100,La Goule,5,,,,,0.063131313,0,,,,,0,RoR,CH,can3,13300,11420,128,Virtual_wn_203,NULL,314
+Dam_Sella,600050,Sella,1.85,,,,,0.256944444,0,,,,,0,Dam,CH,can16,2000,900,29.1,Lago di Lucendro,Virtual_wn_10,19
+Dam_Airolo,600100,Airolo,58,,,,,2.301587302,0,,,,,0,Dam,CH,can16,69700,32600,224.4,Virtual_wn_10,Ausgleichsbecken Stalvedro (Airolo),19
+RoR_Calcaccia,600300,Calcaccia,3.3,,,,,1.018518519,0,,,,,0,RoR,CH,can16,5000,8700,231,Bacino di compenso Airolo (nahe Segna),NULL,20
+Dam_Ritom,600400,Ritom,44,,,,,1.851851852,0,,,,,0,Dam,CH,can16,84000,71000,250.1,Lago Ritom,NULL,21
+RoR_Stalvedro (AET),600500,Stalvedro (AET),13,,,,,0.314009662,0,,,,,0,RoR,CH,can16,22000,33000,224.1,Ausgleichsbecken Stalvedro (Airolo),NULL,19
+Pump_Tremorgio,600600,Tremorgio,10,,,,,1.736111111,0,,,,,0,Pump,CH,can16,5600,1200,224.2,Lago Tremorgio,Bacino di compenso Rodi Fiesso,22
+RoR_Piottino,600800,Piottino,60,,,,,0.694444444,0,,,,,0,RoR,CH,can16,128000,172000,224.3,Bacino di compenso Rodi Fiesso,Lago di Rierna (AGB Val Ambra),22
+RoR_Ticinetto,600900,Ticinetto,2.8,,,,,0.388888889,0,,,,,0,RoR,CH,can16,2500,8000,191.1,Bacino di compenso Nivo,Lago di Rierna (AGB Val Ambra),22
+RoR_Biaschina,601000,Biaschina,135,,,,,0.694444444,0,,,,,0,RoR,CH,can16,142000,240000,224.4,Lago di Rierna (AGB Val Ambra),NULL,22
+RoR_Luzzone,601100,Luzzone,19,,,,,0.454980843,0,,,,,0,RoR,CH,can16,5600,21200,211,Bacino di Carassino,Lago di Luzzone,8
+Dam_Olivone,601200,Olivone,96,,,,,1.333333333,0,,,,,0,Dam,CH,can16,140300,69800,211,Lago di Luzzone,Bacino di Val Malvaglia,8
+Dam_Biasca,601300,Biasca,324,,,,,1.636363636,0,,,,,0,Dam,CH,can16,313000,375000,211,Bacino di Val Malvaglia,NULL,8
+Dam_Spina (Isola),601400,Spina (Isola),20,,,,,0.808648367,0,,,,,0,Dam,CH,can8,15400,47400,236,Lago d'Isola,Bacino di compenso Pian San Giacomo (Corina),10
+RoR_Spina (Valbella),601500,Spina (Valbella),4,,,,,0.808648789,0,,,,,0,RoR,CH,can8,1700,8200,236,Lago d'Isola,Bacino di compenso Pian San Giacomo (Corina),10
+RoR_Soazza,601600,Soazza,80,,,,,1.587301587,0,,,,,0,RoR,CH,can8,54100,191000,236,Bacino di compenso Pian San Giacomo (Corina),NULL,10
+RoR_Lostallo,601700,Lostallo,24.2,,,,,1.680555556,0,,,,,0,RoR,CH,can8,19400,52300,232.1,Ausgleichsbecken Rivascia,NULL,11
+RoR_Grono,601900,Grono,36.25,,,,,1.525673401,0,,,,,0,RoR,CH,can16,27440,66520,232.2,Lago di Roggiasca,NULL,12
+RoR_Sassello,602000,Sassello,20,,,,,0.925925926,0,,,,,0,RoR,CH,can16,29600,59800,237,Lago de Buseno,NULL,13
+RoR_Morobbia,602100,Morobbia,15,,,,,0.833333333,0,,,,,0,RoR,CH,can16,14700,27700,238,Lago Carmena,NULL,14
+Dam_Gordola,602200,Gordola,105,,,,,0.584453996,0,,,,,0,Dam,CH,can16,100000,115000,171,Lago di Vogorno,NULL,15
+RoR_Tenero -Centrale die dotazione,602300,Tenero -Centrale die dotazione,4.4,,,,,0.584453451,0,,,,,0,RoR,CH,can16,5000,7000,171,Lago di Vogorno,NULL,15
+Pump_Peccia (Sambuco),602400,Peccia (Sambuco),44,,,,,0.826414437,24,,,,,1.101885916,Pump,CH,can16,60500,24900,242,Lago del Sambuco,Ausgleichsbecken Peccia,16
+RoR_Peccia (Corgello),602450,Peccia (Corgello),0.96,,,,,0.82642024,0,,,,,0,RoR,CH,can16,600,1400,242,Lago del Sambuco,Ausgleichsbecken Peccia,16
+Pump_Robiei,602500,Robiei,165,,,,,0.93537415,162,,,,,1.247165533,Pump,CH,can16,26700,3700,242,Lago die Cavagnoli,Lago di Robièi (Robiei),16
+Dam_Bavona,602600,Bavona,124,,,,,1.913580247,0,,,,,0,Dam,CH,can16,177200,147100,242,Lago di Robièi (Robiei),Virtual_wn_211,16
+Dam_Cavergno,602700,Cavergno,104,,,,,1.111111111,0,,,,,0,Dam,CH,can16,200800,196900,242,Virtual_wn_211,Lago di Palagnedra,16
+Dam_Verbano I,602800,Verbano I,96,,,,,0.588772555,0,,,,,0,Dam,CH,can16,148700,197600,242,Lago di Palagnedra,NULL,16
+Dam_Verbano II,602900,Verbano II,50,,,,,0.588773447,0,,,,,0,Dam,CH,can16,68000,92400,242,Lago di Palagnedra,NULL,16
+RoR_Giumaglio,603000,Giumaglio,8.7,,,,,0.863095238,0,,,,,0,RoR,CH,can16,9000,16300,191.3,Lago Coglio (=Lago Vasasca),NULL,101
+RoR_Ponte Brolla,603100,Ponte Brolla,3,,,,,0.083333333,0,,,,,0,RoR,CH,can16,5400,8000,191.2,AGB Ponte Brolla,NULL,126
+RoR_Stampa,603200,Stampa,3.6,,,,,0.5,0,,,,,0,RoR,CH,can16,8000,7000,239,Virtual_wn_204,NULL,318
+RoR_Valmara,603300,Valmara,0.95,,,,,0.586419753,0,,,,,0,RoR,CH,can16,2470,3180,251,Virtual_wn_205,NULL,319
+RoR_Gabi,603400,Gabi,11,,,,,0.636574074,0,,,,,0,RoR,CH,can17,9000,33000,165.1,Bassin d'Eggen,Sera/Serra Stausee,45
+RoR_Gondo,603500,Gondo,42,,,,,1.060606061,0,,,,,0,RoR,CH,can17,48300,140200,165.1,Sera/Serra Stausee,NULL,45
+RoR_Tannuwald,603600,Tannuwald,5,,,,,0.694444444,0,,,,,0,RoR,CH,can17,3800,12700,165.2,Bassin de Fah,NULL,44
+Pump_Palue,700100,Palue,10.5,,,,,0.64815517,3,,,,,0.864206894,Pump,CH,can8,11000,3000,212.1,Laghi Bernina (Lago Bianco+Lago della Scala),Lagh da Palü (Lago di Palü),30
+Pump_Bernina (Centrale di pomp.),700200,Bernina (Centrale di pomp.),0,,,,,0.648156562,0.52,,,,,0.864208749,Pump,CH,can8,0,0,212.1,Laghi Bernina (Lago Bianco+Lago della Scala),Lagh da Palü (Lago di Palü),30
+Dam_Cavaglia,700300,Cavaglia,7,,,,,0.462962963,0,,,,,0,Dam,CH,can8,9000,14000,212.1,Lagh da Palü (Lago di Palü),Virtual_wn_206,30
+Dam_Robbia,700400,Robbia,27,,,,,1.25,0,,,,,0,Dam,CH,can8,36000,64000,212.1,Virtual_wn_206,NULL,30
+Dam_Campocologno I,700500,Campocologno I,50,,,,,1.038097855,0,,,,,0,Dam,CH,can8,68000,127000,212.2,Lago di Poschiavo,NULL,31
+Dam_Campocologno II,700600,Campocologno II,1.5,,,,,1.038103285,0,,,,,0,Dam,CH,can8,1900,4100,212.2,Lago di Poschiavo,NULL,31
+RoR_Lizun,700700,Lizun,6.6,,,,,0.833333333,0,,,,,0,RoR,CH,can8,1400,16100,134.1,Virtual_wn_11,Ausgleichsbecken Löbbia,1
+Dam_Loebbia (Albigna),700800,Loebbia (Albigna),86,,,,,1.782752902,0,,,,,0,Dam,CH,can8,87400,21200,134.1,Lägh da l'Albigna,Ausgleichsbecken Löbbia,1
+RoR_Plancanin,700850,Plancanin,0.5,,,,,0.138888889,0,,,,,0,RoR,CH,can8,20,500,134.1,Lägh da Plan Canin (Plancanin),Lägh da l'Albigna,1
+RoR_Bondo,701300,Bondo,6.9,,,,,0.66091954,0,,,,,0,RoR,CH,can8,1500,16100,134.2,Virtual_wn_207,NULL,322
+Dam_Castasegna,701400,Castasegna,100,,,,,1.736111111,0,,,,,0,Dam,CH,can8,98700,159100,134.1,Ausgleichsbecken Löbbia,NULL,1
+RoR_Islas,800200,Islas,4.2,,,,,0.112179487,0,,,,,0,RoR,CH,can8,3000,13000,91,St. Moritzersee (Lej da S. Murezzan),NULL,107
+RoR_Madulain,800400,Madulain,1.51,,,,,0.838888889,0,,,,,0,RoR,CH,can8,1300,5100,7.2,Virtual_wn_208,NULL,323
+Pump_Ova Spin,800800,Ova Spin,46.5,,,,,0.391414141,52,,,,,0.521885522,Pump,CH,can8,67500,19900,92,Lago di Livigno,Ova Spin,29
+Dam_Pradella,801000,Pradella,288,,,,,1.111111111,0,,,,,0,Dam,CH,can8,395000,625000,92,Ova Spin,AGB Pradella,29
+Dam_Martina,801100,Martina,72,,,,,0.215053763,0,,,,,0,Dam,CH,can8,109000,189700,92,AGB Pradella,NULL,29
+RoR_Muranzina,900100,Muranzina,1.8,,,,,0.833333333,0,,,,,0,RoR,CH,can8,3740,5960,157,Virtual_wn_209,Virtual_wn_210,324
+RoR_Chasseras,900200,Chasseras,1.03,,,,,0.371572872,0,,,,,0,RoR,CH,can8,3700,4100,157,Virtual_wn_210,NULL,324
+Pump_Limmern,400050,Limmern,0,1000,,,,0.694444444,0,1000,,,,0.868055556,Pump,CH,can7,3200,700,207,Muttsee,Limmerensee (Stausee Limmernboden),80
+Pump_Nant de Drance,506850,Nant de Drance,0,900,,,,0.694444444,0,900,,,,0.868055556,Pump,CH,can17,3300,5700,249,Lac du Vieux Emosson,Lac d'Emosson,35
+Pump_Tierfehd (Umwälzwerk),400250,Tierfehd (Umwälzwerk),140,,,,,2.425142525,140,,,,,3.233523366,Pump,CH,can7,0,0,207,Limmerensee (Stausee Limmernboden),Ausgleichsbecken Tierfehd,80
+RoR_Albbruck-Wehrkraftwerk,108950,Albbruck-Wehrkraftwerk,28.4,,,,,0.022504971,0,,,,,0,RoR,CH,can1,55000,67000,39,Virtual_wn_55,NULL,161
+RoR_Hagneck 2 (M 1 u. M 2),205150,Hagneck 2 (M 1 u. M 2),22.6,,,,,0.022592205,0,,,,,0,RoR,CH,can5,44000,55000,274.2,Virtual_wn_95,NULL,202
+_Pump_AT_EAST,,_AT_EAST,133.269642,45.32331837,22.21910576,0,0,1,133.269642,45.32331837,22.21910576,0,0,1.333333333,Pump,AT,,,,,_AT_EAST_Pump_WN_UPPER,_AT_EAST_Pump_WN_LOWER,
+_Pump_AT_WEST,,_AT_WEST,3885.373643,1321.366396,647.7808942,0,0,1,3885.373643,1321.366396,647.7808942,0,0,1.333333333,Pump,AT,,,,,_AT_WEST_Pump_WN_UPPER,_AT_WEST_Pump_WN_LOWER,
+_Dam_AT_EAST,,_AT_EAST,1537.472863,589.9645035,-26.3322884,0,0,1,,,,,,0,Dam,AT,,,,,_AT_EAST_Dam_WN_UPPER,_AT_EAST_Dam_WN_LOWER,
+_Dam_AT_WEST,,_AT_WEST,1965.768875,754.3117581,-33.6677116,0,0,1,,,,,,0,Dam,AT,,,,,_AT_WEST_Dam_WN_UPPER,_AT_WEST_Dam_WN_LOWER,
+_Pump_ES,,_ES,4435.021012,2744.978988,1100,0,0,1,4435.021012,2744.978988,1100,0,0,1.333333333,Pump,ES,,,,,_ES_Pump_WN_UPPER,_ES_Pump_WN_LOWER,
+_Dam_ES,,_ES,15015.39078,-4095.390779,0,0,0,1,,,,,,0,Dam,ES,,,,,_ES_Dam_WN_UPPER,_ES_Dam_WN_LOWER,
+_Pump_FR_NORTH,,_FR_NORTH,809.2238352,-125.5803445,0,0,0,1,809.2238352,-125.5803445,0,0,0,1.333333333,Pump,FR,,,,,_FR_NORTH_Pump_WN_UPPER,_FR_NORTH_Pump_WN_LOWER,
+_Pump_FR_EAST,,_FR_EAST,3241.857327,-503.0914096,0,0,0,1,3241.857327,-503.0914096,0,0,0,1.333333333,Pump,FR,,,,,_FR_EAST_Pump_WN_UPPER,_FR_EAST_Pump_WN_LOWER,
+_Pump_FR_SW,,_FR_SW,910.7644698,-141.3380463,0,0,0,1,910.7644698,-141.3380463,0,0,0,1.333333333,Pump,FR,,,,,_FR_SW_Pump_WN_UPPER,_FR_SW_Pump_WN_LOWER,
+_Pump_FR_WEST,,_FR_WEST,0,0,0,0,0,1,0,0,0,0,0,1.333333333,Pump,FR,,,,,_FR_WEST_Pump_WN_UPPER,_FR_WEST_Pump_WN_LOWER,
+_Pump_FR_NE,,_FR_NE,9.663867287,-1.499698514,0,0,0,1,9.663867287,-1.499698514,0,0,0,1.333333333,Pump,FR,,,,,_FR_NE_Pump_WN_UPPER,_FR_NE_Pump_WN_LOWER,
+_Pump_FR_SE,,_FR_SE,0,0,0,0,0,1,0,0,0,0,0,1.333333333,Pump,FR,,,,,_FR_SE_Pump_WN_UPPER,_FR_SE_Pump_WN_LOWER,
+_Dam_FR_NORTH,,_FR_NORTH,312.6799798,-25.28887665,32.25270953,0,0,1,,,,,,0,Dam,FR,,,,,_FR_NORTH_Dam_WN_UPPER,_FR_NORTH_Dam_WN_LOWER,
+_Dam_FR_EAST,,_FR_EAST,3428.12623,-277.2593929,353.6086948,0,0,1,,,,,,0,Dam,FR,,,,,_FR_EAST_Dam_WN_UPPER,_FR_EAST_Dam_WN_LOWER,
+_Dam_FR_SW,,_FR_SW,2751.250784,-222.5151791,283.7894913,0,0,1,,,,,,0,Dam,FR,,,,,_FR_SW_Dam_WN_UPPER,_FR_SW_Dam_WN_LOWER,
+_Dam_FR_WEST,,_FR_WEST,28.03832517,-2.267678753,2.892132582,0,0,1,,,,,,0,Dam,FR,,,,,_FR_WEST_Dam_WN_UPPER,_FR_WEST_Dam_WN_LOWER,
+_Dam_FR_NE,,_FR_NE,0,0,0,0,0,1,,,,,,0,Dam,FR,,,,,_FR_NE_Dam_WN_UPPER,_FR_NE_Dam_WN_LOWER,
+_Dam_FR_SE,,_FR_SE,1721.355712,-139.2195059,177.5565734,0,0,1,,,,,,0,Dam,FR,,,,,_FR_SE_Dam_WN_UPPER,_FR_SE_Dam_WN_LOWER,
+_Dam_IT_CNTR,,_IT_CNTR,1901.40523,0,0,0,-22.49323014,1,,,,,,0,Dam,IT,,,,,_IT_CNTR_Dam_WN_UPPER,_IT_CNTR_Dam_WN_LOWER,
+_Dam_IT_NORTH,,_IT_NORTH,6203.221226,0,0,0,-73.38282257,1,,,,,,0,Dam,IT,,,,,_IT_NORTH_Dam_WN_UPPER,_IT_NORTH_Dam_WN_LOWER,
+_Dam_IT_NW,,_IT_NW,2614.098846,0,0,0,-30.92424803,1,,,,,,0,Dam,IT,,,,,_IT_NW_Dam_WN_UPPER,_IT_NW_Dam_WN_LOWER,
+_Dam_IT_NE,,_IT_NE,3114.784445,0,0,0,-36.84725498,1,,,,,,0,Dam,IT,,,,,_IT_NE_Dam_WN_UPPER,_IT_NE_Dam_WN_LOWER,
+_Dam_IT_SOUTH,,_IT_SOUTH,2819.359941,0,0,0,-33.35244428,1,,,,,,0,Dam,IT,,,,,_IT_SOUTH_Dam_WN_UPPER,_IT_SOUTH_Dam_WN_LOWER,
+_Pump_IT_CNTR,,_IT_CNTR,992.5350957,-339.4321698,0,0,0,1,992.5350957,-339.4321698,0,0,0,1.333333333,Pump,IT,,,,,_IT_CNTR_Pump_WN_UPPER,_IT_CNTR_Pump_WN_LOWER,
+_Pump_IT_NORTH,,_IT_NORTH,3238.086587,-1107.377221,0,0,0,1,3238.086587,-1107.377221,0,0,0,1.333333333,Pump,IT,,,,,_IT_NORTH_Pump_WN_UPPER,_IT_NORTH_Pump_WN_LOWER,
+_Pump_IT_NW,,_IT_NW,1364.56175,-466.6597257,0,0,0,1,1364.56175,-466.6597257,0,0,0,1.333333333,Pump,IT,,,,,_IT_NW_Pump_WN_UPPER,_IT_NW_Pump_WN_LOWER,
+_Pump_IT_NE,,_IT_NE,1625.920045,-556.0403567,0,0,0,1,1625.920045,-556.0403567,0,0,0,1.333333333,Pump,IT,,,,,_IT_NE_Pump_WN_UPPER,_IT_NE_Pump_WN_LOWER,
+_Pump_IT_SOUTH,,_IT_SOUTH,1471.70821,-503.3022139,0,0,0,1,1471.70821,-503.3022139,0,0,0,1.333333333,Pump,IT,,,,,_IT_SOUTH_Pump_WN_UPPER,_IT_SOUTH_Pump_WN_LOWER,
+_Pump_NO,,_NO,0,1114.708,0,0,0,1,0,1114.708,0,0,0,1.333333333,Pump,NO,,,,,_NO_Pump_WN_UPPER,_NO_Pump_WN_LOWER,
+_Dam_NO,,_NO,30145.63272,2966.55928,1590,0,0,1,,,,,,0,Dam,NO,,,,,_NO_Dam_WN_UPPER,_NO_Dam_WN_LOWER,
+_Pump_PT,,_PT,2660.529242,904.3707577,555,0,0,1,2660.529242,904.3707577,555,0,0,1.333333333,Pump,PT,,,,,_PT_Pump_WN_UPPER,_PT_Pump_WN_LOWER,
+_Dam_PT,,_PT,1575.420071,2532.879929,238,0,0,1,,,,,,0,Dam,PT,,,,,_PT_Dam_WN_UPPER,_PT_Dam_WN_LOWER,
+_Pump_SE,,_SE,0,0,0,0,0,1,0,0,0,0,0,1.333333333,Pump,SE,,,,,_SE_Pump_WN_UPPER,_SE_Pump_WN_LOWER,
+_Dam_SE,,_SE,16301,-117,0,0,0,1,,,,,,0,Dam,SE,,,,,_SE_Dam_WN_UPPER,_SE_Dam_WN_LOWER,

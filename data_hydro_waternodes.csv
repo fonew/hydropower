@@ -1,0 +1,499 @@
+,,storage capacity increase (m3),,,,,,,,,
+wnode_id,stor_max,2025,2030,2035,2040,name,KANTON_ID,REGION_ID,REGION_NAME, scheme_id , cascade_id 
+Lägh da Plan Canin (Plancanin),0,,,,,Lägh da Plan Canin (Plancanin),GR,5,Ostschweiz,134.1,1
+Ausgleichsbecken Löbbia,200,,,,,Ausgleichsbecken Löbbia,GR,5,Ostschweiz,134.1,1
+Madrischer Rheinstau,270,,,,,Madrischer Rheinstau,GR,5,Ostschweiz,133.1,2
+Lago di Lei,197230,,,,,Lago di Lei,GR,5,Ostschweiz,133.1,2
+Sufnersee,18300,,,,,Sufnersee,GR,5,Ostschweiz,133.1,2
+Stausee Bärenburg,1000,,,,,Stausee Bärenburg,GR,5,Ostschweiz,133.1,2
+Lai da Marmorera,60000,,,,,Lai da Marmorera,GR,5,Ostschweiz,134.3,3
+Lai da Burvagn,200,,,,,Lai da Burvagn,GR,5,Ostschweiz,134.8,3
+Heidsee (Igl Lai),800,,,,,Heidsee (Igl Lai),GR,5,Ostschweiz,134.9,5
+Alvaschein Stausee (Stausee Solis),1460,,,,,Alvaschein Stausee (Stausee Solis),GR,5,Ostschweiz,134.4,3
+Ausgleichsbecken Zervreila,140,,,,,Ausgleichsbecken Zervreila,GR,5,Ostschweiz,3.1,108
+Ausgleichsbecken Wanna,290,,,,,Ausgleichsbecken Wanna,GR,5,Ostschweiz,3.1,108
+Ausgleichsbecken Safien Platz,230,,,,,Ausgleichsbecken Safien Platz,GR,5,Ostschweiz,3.1,108
+Stausee Safien (Egschi),500,,,,,Stausee Safien (Egschi),GR,5,Ostschweiz,3.2,6
+Lai da Curnera,107800,,,,,Lai da Curnera,GR,5,Ostschweiz,201,7
+Lai da Nalps,44500,,,,,Lai da Nalps,GR,5,Ostschweiz,201,7
+Lai Runcahez (AGB Somvixertal),430,,,,,Lai Runcahez (AGB Somvixertal),GR,5,Ostschweiz,201,7
+Lago di Luzzone,107180,,,,,Lago di Luzzone,TI,7,Tessin,211,8
+Bacino di Carassino,180,,,,,Bacino di Carassino,TI,7,Tessin,211,8
+Bacino di Val Malvaglia,4100,,,,,Bacino di Val Malvaglia,TI,7,Tessin,211,8
+Lago d'Isola,5900,,,,,Lago d'Isola,GR,5,Ostschweiz,236,10
+Bacino di compenso Pian San Giacomo (Corina),120,,,,,Bacino di compenso Pian San Giacomo (Corina),GR,5,Ostschweiz,236,10
+Ausgleichsbecken Rivascia,110,,,,,Ausgleichsbecken Rivascia,GR,5,Ostschweiz,232.1,11
+Lago di Roggiasca,470,,,,,Lago di Roggiasca,GR,5,Ostschweiz,232.2,12
+Lago de Buseno,640,,,,,Lago de Buseno,GR,5,Ostschweiz,237,13
+Lago Carmena,250,,,,,Lago Carmena,TI,7,Tessin,238,14
+Lago di Vogorno,86400,,,,,Lago di Vogorno,TI,7,Tessin,171,15
+Griessee,18000,,,,,Griessee,VS,1,Genferseeregion,178,16
+Lago die Cavagnoli,27600,,,,,Lago die Cavagnoli,TI,7,Tessin,242,16
+Lago di Robièi (Robiei),6500,,,,,Lago di Robièi (Robiei),TI,7,Tessin,242,16
+Lago del Zött,1600,,,,,Lago del Zött,TI,7,Tessin,242,16
+Lago Sfundau,35200,,,,,Lago Sfundau,TI,7,Tessin,242,16
+Ausgleichsbecken Peccia,100,,,,,Ausgleichsbecken Peccia,TI,7,Tessin,242,16
+Lago del Sambuco,62000,,,,,Lago del Sambuco,TI,7,Tessin,242,16
+Lago di Palagnedra,4000,,,,,Lago di Palagnedra,TI,7,Tessin,242,16
+Lago di Lucendro,34050,,,,,Lago di Lucendro,TI,7,Tessin,29.1,19
+Bacino di compenso Airolo (nahe Segna),10,,,,,Bacino di compenso Airolo (nahe Segna),TI,7,Tessin,231,20
+Lago Ritom,47500,,,,,Lago Ritom,TI,7,Tessin,250.1,21
+Lago Cadagno,860,,,,,Lago Cadagno,TI,7,Tessin,250.1,21
+Ausgleichsbecken Stalvedro (Airolo),370,,,,,Ausgleichsbecken Stalvedro (Airolo),TI,7,Tessin,224.1,19
+Lago Tremorgio,9000,,,,,Lago Tremorgio,TI,7,Tessin,224.2,22
+Bacino di compenso Rodi Fiesso,130,,,,,Bacino di compenso Rodi Fiesso,TI,7,Tessin,224.3,22
+Bacino di compenso Nivo,69,,,,,Bacino di compenso Nivo,TI,7,Tessin,224.4,22
+Lago di Rierna (AGB Val Ambra),400,,,,,Lago di Rierna (AGB Val Ambra),TI,7,Tessin,224.4,22
+Oberaarsee,81000,,,,,Oberaarsee,BE,2,Espace Mittelland,200,25
+Grimselsee,94000,,,,,Grimselsee,BE,2,Espace Mittelland,200,25
+Räterichsbodensee,27000,,,,,Räterichsbodensee,BE,2,Espace Mittelland,200,25
+Totensee,2500,,,,,Totensee,VS,1,Genferseeregion,200,25
+Gelmersee,13500,,,,,Gelmersee,BE,2,Espace Mittelland,200,25
+Hangholzbecken (Ausgleichbecken Handeck),80,,,,,Hangholzbecken (Ausgleichbecken Handeck),BE,2,Espace Mittelland,200,25
+Ausgleichsbecken Teuflaui,50,,,,,Ausgleichsbecken Teuflaui,BE,2,Espace Mittelland,200,25
+Engstlensee,2000,,,,,Engstlensee,BE,2,Espace Mittelland,200,25
+Ausgleichsbecken Leimboden,20,,,,,Ausgleichsbecken Leimboden,BE,2,Espace Mittelland,200,25
+Ausgleichsbecken Hopflauenen,60,,,,,Ausgleichsbecken Hopflauenen,BE,2,Espace Mittelland,200,25
+Ova Spin,6500,,,,,Ova Spin,GR,5,Ostschweiz,92,29
+Lago di Livigno,164000,,,,,Lago di Livigno,GR,5,Ostschweiz,92,29
+AGB Pradella,260,,,,,AGB Pradella,GR,5,Ostschweiz,92,29
+Laghi Bernina (Lago Bianco+Lago della Scala),18400,,,,,Laghi Bernina (Lago Bianco+Lago della Scala),GR,5,Ostschweiz,212.1,30
+Lagh da Palü (Lago di Palü),153,,,,,Lagh da Palü (Lago di Palü),GR,5,Ostschweiz,212.1,30
+Lago di Poschiavo,15100,,,,,Lago di Poschiavo,GR,5,Ostschweiz,212.2,31
+Zmuttbach-Stau (+ unterird. AGB Bodmen),20880,,,,,Zmuttbach-Stau (+ unterird. AGB Bodmen),VS,1,Genferseeregion,208,32
+Lac des Dix,400170,,,,,Lac des Dix,VS,1,Genferseeregion,208,32
+Lac de Moiry,77780,,,,,Lac de Moiry,VS,1,Genferseeregion,146,115
+Ausgleichsbecken Motec,150,,,,,Ausgleichsbecken Motec,VS,1,Genferseeregion,146,115
+Ausgleichsbecken Vissoie,50,,,,,Ausgleichsbecken Vissoie,VS,1,Genferseeregion,179.4,115
+La Luette,35,,,,,La Luette,VS,1,Genferseeregion,197,33
+Bortelsee,3650,,,,,Bortelsee,VS,1,Genferseeregion,257,34
+Lac d'Emosson,225220,,,,,Lac d'Emosson,VS,1,Genferseeregion,249,35
+Lac du Vieux Emosson,13500,13500,,,,Lac du Vieux Emosson,VS,1,Genferseeregion,250.2,35
+AGB Chatelard-Village (SBB),200,,,,,AGB Chatelard-Village (SBB),VS,1,Genferseeregion,250.2,35
+AGB Chatelard,90,,,,,AGB Chatelard,VS,1,Genferseeregion,249,35
+Kummenbord-Stau,160,,,,,Kummenbord-Stau,VS,1,Genferseeregion,117.1,36
+Staubecken Frid (Fried)(uf en egga),50,,,,,Staubecken Frid (Fried)(uf en egga),VS,1,Genferseeregion,117.2,117
+Lac de Tseuzier,50000,,,,,Lac de Tseuzier,VS,1,Genferseeregion,188.1,37
+Lac de la Lienne,90,,,,,Lac de la Lienne,VS,1,Genferseeregion,188.1,37
+Mattmark Stausee,100000,,,,,Mattmark Stausee,VS,1,Genferseeregion,87.1,38
+Ausgleichsbecken Zermeiggern,100,,,,,Ausgleichsbecken Zermeiggern,VS,1,Genferseeregion,87.1,38
+Gibidum Stausee (Gebidem),8500,,,,,Gibidum Stausee (Gebidem),VS,1,Genferseeregion,84,39
+Akkumulierbecken Massaschlucht,13.7,,,,,Akkumulierbecken Massaschlucht,VS,1,Genferseeregion,106.1,40
+Ze Binne See (Bassin Zenbinnen),170,,,,,Ze Binne See (Bassin Zenbinnen),VS,1,Genferseeregion,179.1,41
+Ausgleichsbecken Mattsand (Akkumulierbecken),210,,,,,Ausgleichsbecken Mattsand (Akkumulierbecken),VS,1,Genferseeregion,106.2,42
+Lonza-Stau (Ferden),1720,,,,,Lonza-Stau (Ferden),VS,1,Genferseeregion,108,43
+Bassin de Fah,40,,,,,Bassin de Fah,VS,1,Genferseeregion,165.2,44
+Bassin d'Eggen,50,,,,,Bassin d'Eggen,VS,1,Genferseeregion,165.1,45
+Sera/Serra Stausee,170,,,,,Sera/Serra Stausee,VS,1,Genferseeregion,165.1,45
+Ausgleichsbecken Oberems,30,,,,,Ausgleichsbecken Oberems,VS,1,Genferseeregion,166,46
+Ober Meretschisee,130,,,,,Ober Meretschisee,VS,1,Genferseeregion,166,46
+Unter Meretschisee,6550,,,,,Unter Meretschisee,VS,1,Genferseeregion,166,46
+Lac de Godey (Bassin de compensation),890,,,,,Lac de Godey (Bassin de compensation),VS,1,Genferseeregion,198.1,47
+AGB Godey,120,,,,,AGB Godey,VS,1,Genferseeregion,198.1,47
+Lac de Mauvoisin,204000,,,,,Lac de Mauvoisin,VS,1,Genferseeregion,253,118
+Ausgleichsbecken Fionnay,170,,,,,Ausgleichsbecken Fionnay,VS,1,Genferseeregion,253,118
+Retenue de Hospitalet,14,,,,,Retenue de Hospitalet,VS,1,Genferseeregion,222,49
+Lac des Toules,20000,,,,,Lac des Toules,VS,1,Genferseeregion,189,50
+Ausgleichsbecken Pallazuit,100,,,,,Ausgleichsbecken Pallazuit,VS,1,Genferseeregion,160.1,50
+Lac de Champex (naturel),0,,,,,Lac de Champex (naturel),VS,1,Genferseeregion,160.2,51
+Lac de Salanfe,40000,,,,,Lac de Salanfe,VS,1,Genferseeregion,121,52
+Lac de Tanay,2200,,,,,Lac de Tanay,VS,1,Genferseeregion,282,53
+Lac de l'Hongrin,52100,,,,,Lac de l'Hongrin,VD,1,Genferseeregion,124,54
+Arnensee,10300,,,,,Arnensee,BE,2,Espace Mittelland,158.2,55
+Lac de Sénin (Sanetsch),2700,,,,,Lac de Sénin (Sanetsch),VS,1,Genferseeregion,41,56
+Lac de Vernex,1700,,,,,Lac de Vernex,VD,1,Genferseeregion,176.2,57
+Lac de Montbovon (=Lac de Lessoc),750,,,,,Lac de Montbovon (=Lac de Lessoc),FR,2,Espace Mittelland,176.2,57
+Lac de Montsalvens,11000,,,,,Lac de Montsalvens,FR,2,Espace Mittelland,176.1,58
+Lac de la Gruyère,180000,,,,,Lac de la Gruyère,FR,2,Espace Mittelland,176.3,59
+Lac de Joux,32000,,,,,Lac de Joux,VD,1,Genferseeregion,158.5,60
+Retenue de Le Pontet,70,,,,,Retenue de Le Pontet,VD,1,Genferseeregion,113,61
+Retenue de Jougnenaz,10,,,,,Retenue de Jougnenaz,VD,1,Genferseeregion,113,61
+Lac du Mirroir (Barrage du Day),740,,,,,Lac du Mirroir (Barrage du Day),VD,1,Genferseeregion,158.4,61
+Lac de Moron,15800,,,,,Lac de Moron,NE,2,Espace Mittelland,167,62
+Stausee Wimmis / Port  (AGB Simmenporte),250,,,,,Stausee Wimmis / Port  (AGB Simmenporte),BE,2,Espace Mittelland,24.1,63
+Ägelsee (Egelsee),130,,,,,Ägelsee (Egelsee),BE,2,Espace Mittelland,24.1,63
+Oberstockensee,1800,,,,,Oberstockensee,BE,2,Espace Mittelland,24.2,63
+Hinterstockensee,300,,,,,Hinterstockensee,BE,2,Espace Mittelland,24.2,63
+Ausgleichsweiher Spiezmoos,320,,,,,Ausgleichsweiher Spiezmoos,BE,2,Espace Mittelland,183.6,63
+Melchsee,6610,,,,,Melchsee,OW,6,Zentralschweiz,131.1,65
+Lungerersee,50000,,,,,Lungerersee,OW,6,Zentralschweiz,131.2,120
+Trübsee,650,,,,,Trübsee,NW,6,Zentralschweiz,52.1,66
+Eugenisee,170,,,,,Eugenisee,OW,6,Zentralschweiz,53.2,66
+Ausgleichsbecken Obermatt,100,,,,,Ausgleichsbecken Obermatt,OW,6,Zentralschweiz,52.2,66
+Bannalpsee,1630,,,,,Bannalpsee,NW,6,Zentralschweiz,54.1,67
+Secklisbach Stau,60,,,,,Secklisbach Stau,NW,6,Zentralschweiz,54.2,68
+Wichelsee,380,,,,,Wichelsee,OW,6,Zentralschweiz,142,69
+Isenthaler Stau (See),25,,,,,Isenthaler Stau (See),UR,6,Zentralschweiz,48.2,122
+Ausgleichsbecken Lehmatt,10,,,,,Ausgleichsbecken Lehmatt,UR,6,Zentralschweiz,49,70
+Arnisee,180,,,,,Arnisee,UR,6,Zentralschweiz,48.3,71
+Tagesausgleichsbecken Waldnacht(er Boden),30,,,,,Tagesausgleichsbecken Waldnacht(er Boden),UR,6,Zentralschweiz,95,72
+Stau Pfaffensprung,170,,,,,Stau Pfaffensprung,UR,6,Zentralschweiz,250.4,73
+Göschener Reussstau (Ausgleichsbecken Göschenen),100,,,,,Göschener Reussstau (Ausgleichsbecken Göschenen),UR,6,Zentralschweiz,141,73
+Göscheneralpsee,75000,,,,,Göscheneralpsee,UR,6,Zentralschweiz,140.1,73
+Oberalpsee,1270,,,,,Oberalpsee,UR,6,Zentralschweiz,152.2,74
+Glattalpsee,3000,,,,,Glattalpsee,SZ,6,Zentralschweiz,50.1,75
+Waldialp (Waldisee),240,,,,,Waldialp (Waldisee),SZ,6,Zentralschweiz,50.1,75
+Ausgleichsbecken Sahliboden,50,,,,,Ausgleichsbecken Sahliboden,SZ,6,Zentralschweiz,50.1,75
+Ausgleichsbecken Riedplätz,50,,,,,Ausgleichsbecken Riedplätz,SZ,6,Zentralschweiz,50.2,77
+Ausgleichsbecken Lipplisbüel,20,,,,,Ausgleichsbecken Lipplisbüel,SZ,6,Zentralschweiz,50.2,77
+Muota Stau (Schlattli) (AGB Selgis),350,,,,,Muota Stau (Schlattli) (AGB Selgis),SZ,6,Zentralschweiz,50.3,79
+Limmerensee (Stausee Limmernboden),92000,,,,,Limmerensee (Stausee Limmernboden),GL,5,Ostschweiz,207,80
+Muttsee,9000,14000,,,,Muttsee,GL,5,Ostschweiz,207,80
+Ausgleichsbecken Tierfehd,210,245,,,,Ausgleichsbecken Tierfehd,GL,5,Ostschweiz,207,80
+Ausgleichsbecken Hintersand,110,,,,,Ausgleichsbecken Hintersand,GL,5,Ostschweiz,207,80
+Fassungsbecken Fätschbachwerk,10,,,,,Fassungsbecken Fätschbachwerk,GL,5,Ostschweiz,74.2,80
+Stausee Garichti (Garichte/Garichten),3000,,,,,Stausee Garichti (Garichte/Garichten),GL,5,Ostschweiz,72.1,83
+Ausgleichsbecken Sernf-Werk (AGB Engi),20,,,,,Ausgleichsbecken Sernf-Werk (AGB Engi),GL,5,Ostschweiz,72.1,83
+Lag Barcuns,115,,,,,Lag Barcuns,GR,5,Ostschweiz,246.2,85
+Stausee Ranasca (Panix),7200,,,,,Stausee Ranasca (Panix),GR,5,Ostschweiz,202,7
+Ausgleichsbecken Tavanasa,140,,,,,Ausgleichsbecken Tavanasa,GR,5,Ostschweiz,202,7
+Gigerwaldsee,33400,,,,,Gigerwaldsee,SG,5,Ostschweiz,214,87
+Mapraggstausee (Ausgleichsbecken),2700,,,,,Mapraggstausee (Ausgleichsbecken),SG,5,Ostschweiz,214,87
+Klöntaler See,39800,,,,,Klöntaler See,GL,5,Ostschweiz,74.1,88
+Obersee,500,,,,,Obersee,GL,5,Ostschweiz,186,89
+AGB Rütiberg,5,,,,,AGB Rütiberg,GL,5,Ostschweiz,186,89
+Brändbach-Becken,10,,,,,Brändbach-Becken,GL,5,Ostschweiz,186,89
+Stausee Rempen,280,,,,,Stausee Rempen,SZ,6,Zentralschweiz,79,91
+Wägitaler See,76000,,,,,Wägitaler See,SZ,6,Zentralschweiz,79,91
+Sihlsee,91800,,,,,Sihlsee,SZ,6,Zentralschweiz,177,92
+Teufenbachweiher (Tiefenbachweiher),170,,,,,Teufenbachweiher (Tiefenbachweiher),ZH,4,Zürich,81.1,93
+Ausgleichsbecken Glaris-Ardüs,90,,,,,Ausgleichsbecken Glaris-Ardüs,GR,5,Ostschweiz,240,124
+Stausee (Ausgleichsbecken) Isel,300,,,,,Stausee (Ausgleichsbecken) Isel,GR,5,Ostschweiz,6,94
+Davoser See,11000,,,,,Davoser See,GR,5,Ostschweiz,7.1,95
+AG- und Grundwasserbecken Doggiloch,40,,,,,AG- und Grundwasserbecken Doggiloch,GR,5,Ostschweiz,7.1,95
+Ausgleichsbecken Pläviggin,30,,,,,Ausgleichsbecken Pläviggin,GR,5,Ostschweiz,7.1,95
+Gübsensee,900,,,,,Gübsensee,SG,5,Ostschweiz,36.1,96
+Seealpsee,600,,,,,Seealpsee,AI,5,Ostschweiz,38,97
+Ausgleichsbecken Vorderberg,10,,,,,Ausgleichsbecken Vorderberg,SG,5,Ostschweiz,129,125
+Muslen (Zand) Stau,80,,,,,Muslen (Zand) Stau,SG,5,Ostschweiz,36.2,98
+Ausgleichsbecken Luchsberg,10,,,,,Ausgleichsbecken Luchsberg,SG,5,Ostschweiz,77,99
+Murgsee (Oberer Murgsee),1240,,,,,Murgsee (Oberer Murgsee),SG,5,Ostschweiz,145,99
+AGB Merlen,1200,,,,,AGB Merlen,SG,5,Ostschweiz,145,99
+Ausgleichsbecken Plätz,10,,,,,Ausgleichsbecken Plätz,SG,5,Ostschweiz,145,99
+Chapfensee,420,,,,,Chapfensee,SG,5,Ostschweiz,104.1,100
+Lago Coglio (=Lago Vasasca),400,,,,,Lago Coglio (=Lago Vasasca),TI,7,Tessin,191.3,101
+AGB Ponte Brolla,10,,,,,AGB Ponte Brolla,TI,7,Tessin,191.2,126
+Ausgleichsbecken Zwirgi,13,,,,,Ausgleichsbecken Zwirgi,BE,2,Espace Mittelland,22,102
+Ual da Mulin Stausee,60,,,,,Ual da Mulin Stausee,GR,5,Ostschweiz,4.2,103
+Ausgleichsbecken (Alp) Gneida,20,,,,,Ausgleichsbecken (Alp) Gneida,GR,5,Ostschweiz,2,104
+Brigels See,300,,,,,Brigels See,GR,5,Ostschweiz,247,105
+Lac Aubonne,63,,,,,Lac Aubonne,VD,1,Genferseeregion,125,106
+St. Moritzersee (Lej da S. Murezzan),900,,,,,St. Moritzersee (Lej da S. Murezzan),GR,5,Ostschweiz,91,107
+Zervreilasee,100000,,,,,Zervreilasee,GR,5,Ostschweiz,3.1,108
+Sihl-Höfe Stau,80,,,,,Sihl-Höfe Stau,SZ,6,Zentralschweiz,174,109
+Hochreservoir Engewald (Spitalwald),90,,,,,Hochreservoir Engewald (Spitalwald),SH,5,Ostschweiz,12,110
+Stausee List,35,,,,,Stausee List,AR,5,Ostschweiz,180,111
+Schiffenensee,35000,,,,,Schiffenensee,FR,2,Espace Mittelland,176.5,112
+Ausgleichsbecken Filisur,20,,,,,Ausgleichsbecken Filisur,GR,5,Ostschweiz,240,124
+Virtual_wn_1,0,,,,,NULL,GR,5,Ostschweiz,134.3,3
+Virtual_wn_2,0,,,,,NULL,BE,2,Espace Mittelland,200,25
+Virtual_wn_3,0,,,,,NULL,VD,1,Genferseeregion,158.4,61
+Virtual_wn_4,0,,,,,NULL,UR,6,Zentralschweiz,48.1,70
+Virtual_wn_5,0,,,,,NULL,OW,6,Zentralschweiz,53.2,66
+Virtual_wn_6,0,,,,,NULL,VS,1,Genferseeregion,107,127
+Virtual_wn_8,0,,,,,NULL,VS,1,Genferseeregion,208,32
+Virtual_wn_9,0,,,,,NULL,VS,1,Genferseeregion,160.2,51
+Virtual_wn_10,0,,,,,NULL,TI,7,Tessin,224.1,19
+Lägh da l'Albigna,68600,,,,,Lägh da l'Albigna,GR,5,Ostschweiz,134.1,1
+Virtual_wn_11,0,,,,,NULL,GR,5,Ostschweiz,134.1,1
+Virtual_wn_12,0,,,,,NULL,VS,1,Genferseeregion,146,115
+Virtual_wn_13,0,,,,,NULL,VS,1,Genferseeregion,250.2,35
+Virtual_wn_14,0,,,,,NULL,VS,1,Genferseeregion,117.2,117
+Virtual_wn_15,0,,,,,NULL,VS,1,Genferseeregion,253,118
+Virtual_wn_17,0,,,,,NULL,OW,6,Zentralschweiz,53.1,66
+Virtual_wn_18,0,,,,,NULL,UR,6,Zentralschweiz,48.2,122
+Virtual_wn_19,0,,,,,NULL,UR,6,Zentralschweiz,140.2,73
+Virtual_wn_20,0,,,,,NULL,GR,5,Ostschweiz,31.2,124
+Virtual_wn_21,0,,,,,NULL,SG,5,Ostschweiz,129,125
+Virtual_wn_22,0,,,,,NULL,VS,1,Genferseeregion,107,127
+Virtual_wn_23,0,,,,,NULL,GR,5,Ostschweiz,213,128
+Virtual_wn_24,0,,,,,NULL,GR,5,Ostschweiz,246.1,129
+Virtual_wn_25,0,,,,,NULL,GR,5,Ostschweiz,4.1,130
+Virtual_wn_26,0,,,,,NULL,GR,5,Ostschweiz,192,131
+Virtual_wn_27,0,,,,,NULL,GR,5,Ostschweiz,246.3,132
+Virtual_wn_28,0,,,,,NULL,GR,5,Ostschweiz,133.1,2
+Virtual_wn_29,0,,,,,NULL,GR,5,Ostschweiz,133.2,134
+Virtual_wn_30,0,,,,,NULL,GR,5,Ostschweiz,31.1,135
+Virtual_wn_31,0,,,,,NULL,GR,5,Ostschweiz,245,136
+Virtual_wn_32,0,,,,,NULL,GR,5,Ostschweiz,63,137
+Virtual_wn_33,0,,,,,NULL,GR,5,Ostschweiz,135.1,138
+Virtual_wn_34,0,,,,,NULL,GR,5,Ostschweiz,135.2,139
+Virtual_wn_35,0,,,,,NULL,SG,5,Ostschweiz,129,125
+Virtual_wn_36,0,,,,,NULL,SG,5,Ostschweiz,36.5,141
+Virtual_wn_37,0,,,,,NULL,SG,5,Ostschweiz,36.5,141
+Virtual_wn_38,0,,,,,NULL,SG,5,Ostschweiz,36.5,141
+Virtual_wn_39,0,,,,,NULL,SG,5,Ostschweiz,10,144
+Virtual_wn_40,0,,,,,NULL,SH,5,Ostschweiz,11,146
+Virtual_wn_41,0,,,,,NULL,ZH,4,Zürich,204,147
+Virtual_wn_42,0,,,,,NULL,SG,5,Ostschweiz,36.3,148
+Virtual_wn_43,0,,,,,NULL,SG,5,Ostschweiz,36.7,149
+Virtual_wn_44,0,,,,,NULL,SG,5,Ostschweiz,149,150
+Virtual_wn_45,0,,,,,NULL,SG,5,Ostschweiz,13,151
+Virtual_wn_46,0,,,,,NULL,TG,5,Ostschweiz,136,152
+Virtual_wn_47,0,,,,,NULL,TG,5,Ostschweiz,16.2,153
+Virtual_wn_48,0,,,,,NULL,TG,5,Ostschweiz,16.1,154
+Virtual_wn_49,0,,,,,NULL,TG,5,Ostschweiz,17,155
+Virtual_wn_50,0,,,,,NULL,TG,5,Ostschweiz,181,156
+Virtual_wn_51,0,,,,,NULL,TG,5,Ostschweiz,262,157
+Virtual_wn_52,0,,,,,NULL,ZH,4,Zürich,216,158
+Virtual_wn_53,0,,,,,NULL,ZH,4,Zürich,74.5,159
+Virtual_wn_54,0,,,,,NULL,AG,3,Nordwestschweiz,20,160
+Virtual_wn_55,0,,,,,NULL,AG,3,Nordwestschweiz,39,161
+Virtual_wn_56,0,,,,,NULL,AG,3,Nordwestschweiz,110,162
+Virtual_wn_57,0,,,,,NULL,AG,3,Nordwestschweiz,40,163
+Virtual_wn_58,0,,,,,NULL,AG,3,Nordwestschweiz,94,164
+Virtual_wn_59,0,,,,,NULL,AG,3,Nordwestschweiz,65.1,165
+Virtual_wn_60,0,,,,,NULL,BL,3,Nordwestschweiz,263,166
+Virtual_wn_61,0,,,,,NULL,BL,3,Nordwestschweiz,65.2,167
+Virtual_wn_62,0,,,,,NULL,BL,3,Nordwestschweiz,19,168
+Virtual_wn_63,0,,,,,NULL,BL,3,Nordwestschweiz,278,169
+Virtual_wn_64,0,,,,,NULL,BL,3,Nordwestschweiz,273.2,170
+Virtual_wn_65,0,,,,,NULL,BL,3,Nordwestschweiz,21,171
+Virtual_wn_66,0,,,,,NULL,BL,3,Nordwestschweiz,150.1,172
+Virtual_wn_67,0,,,,,NULL,BL,3,Nordwestschweiz,150.3,173
+Virtual_wn_68,0,,,,,NULL,BL,3,Nordwestschweiz,150.2,174
+Virtual_wn_69,0,,,,,NULL,BL,3,Nordwestschweiz,150.2,174
+Virtual_wn_70,0,,,,,NULL,BL,3,Nordwestschweiz,273.1,176
+Virtual_wn_71,0,,,,,NULL,BL,3,Nordwestschweiz,67,177
+Virtual_wn_72,0,,,,,NULL,BE,2,Espace Mittelland,137,178
+Virtual_wn_73,0,,,,,NULL,BE,2,Espace Mittelland,137,178
+Virtual_wn_74,0,,,,,NULL,BE,2,Espace Mittelland,22,102
+Virtual_wn_75,0,,,,,NULL,BE,2,Espace Mittelland,68,181
+Virtual_wn_76,0,,,,,NULL,BE,2,Espace Mittelland,138,182
+Virtual_wn_77,0,,,,,NULL,BE,2,Espace Mittelland,139,183
+Virtual_wn_78,0,,,,,NULL,BE,2,Espace Mittelland,139,183
+Virtual_wn_79,0,,,,,NULL,BE,2,Espace Mittelland,25,185
+Virtual_wn_80,0,,,,,NULL,BE,2,Espace Mittelland,25,185
+Virtual_wn_81,0,,,,,NULL,BE,2,Espace Mittelland,183.1,187
+Virtual_wn_82,0,,,,,NULL,BE,2,Espace Mittelland,26,188
+Virtual_wn_83,0,,,,,NULL,BE,2,Espace Mittelland,101.1,190
+Virtual_wn_84,0,,,,,NULL,BE,2,Espace Mittelland,101.2,191
+Virtual_wn_85,0,,,,,NULL,BE,2,Espace Mittelland,101.2,191
+Virtual_wn_86,0,,,,,NULL,BE,2,Espace Mittelland,183.4,193
+Virtual_wn_87,0,,,,,NULL,FR,2,Espace Mittelland,285,194
+Virtual_wn_88,0,,,,,NULL,FR,2,Espace Mittelland,176.3,59
+Virtual_wn_89,0,,,,,NULL,FR,2,Espace Mittelland,176.3,59
+Virtual_wn_90,0,,,,,NULL,FR,2,Espace Mittelland,176.4,197
+Virtual_wn_91,0,,,,,NULL,FR,2,Espace Mittelland,176.4,197
+Virtual_wn_92,0,,,,,NULL,BE,2,Espace Mittelland,183.2,199
+Virtual_wn_93,0,,,,,NULL,BE,2,Espace Mittelland,183.3,200
+Virtual_wn_94,0,,,,,NULL,BE,2,Espace Mittelland,183.2,199
+Virtual_wn_95,0,,,,,NULL,BE,2,Espace Mittelland,274.2,202
+Virtual_wn_96,0,,,,,NULL,VD,1,Genferseeregion,114,203
+Virtual_wn_97,0,,,,,NULL,NE,2,Espace Mittelland,115,204
+Virtual_wn_98,0,,,,,NULL,NE,2,Espace Mittelland,170,205
+Virtual_wn_99,0,,,,,NULL,NE,2,Espace Mittelland,116,206
+Virtual_wn_100,0,,,,,NULL,BE,2,Espace Mittelland,274.1,207
+Virtual_wn_101,0,,,,,NULL,BE,2,Espace Mittelland,42.3,208
+Virtual_wn_102,0,,,,,NULL,BE,2,Espace Mittelland,42.2,209
+Virtual_wn_103,0,,,,,NULL,BE,2,Espace Mittelland,42.1,210
+Virtual_wn_104,0,,,,,NULL,BE,2,Espace Mittelland,217,211
+Virtual_wn_105,0,,,,,NULL,SO,2,Espace Mittelland,69,212
+Virtual_wn_106,0,,,,,NULL,SO,2,Espace Mittelland,43,213
+Virtual_wn_107,0,,,,,NULL,SO,2,Espace Mittelland,44,214
+Virtual_wn_108,0,,,,,NULL,SO,2,Espace Mittelland,144.3,215
+Virtual_wn_109,0,,,,,NULL,SO,2,Espace Mittelland,29.3,216
+Virtual_wn_110,0,,,,,NULL,BE,2,Espace Mittelland,183.5,217
+Virtual_wn_111,0,,,,,NULL,BE,2,Espace Mittelland,28,218
+Virtual_wn_112,0,,,,,NULL,SO,2,Espace Mittelland,29.4,220
+Virtual_wn_113,0,,,,,NULL,SO,2,Espace Mittelland,29.2,221
+Virtual_wn_114,0,,,,,NULL,AG,3,Nordwestschweiz,45,222
+Virtual_wn_115,0,,,,,NULL,AG,3,Nordwestschweiz,46,223
+Virtual_wn_116,0,,,,,NULL,AG,3,Nordwestschweiz,241,224
+Virtual_wn_117,0,,,,,NULL,AG,3,Nordwestschweiz,241,224
+Virtual_wn_118,0,,,,,NULL,AG,3,Nordwestschweiz,74.3,226
+Virtual_wn_119,0,,,,,NULL,AG,3,Nordwestschweiz,74.3,226
+Virtual_wn_120,0,,,,,NULL,AG,3,Nordwestschweiz,74.4,228
+Virtual_wn_121,0,,,,,NULL,AG,3,Nordwestschweiz,74.4,228
+Virtual_wn_122,0,,,,,NULL,AG,3,Nordwestschweiz,102,230
+Virtual_wn_123,0,,,,,NULL,UR,6,Zentralschweiz,152.3,231
+Virtual_wn_124,0,,,,,NULL,UR,6,Zentralschweiz,152.1,232
+Virtual_wn_125,0,,,,,NULL,UR,6,Zentralschweiz,250.4,73
+Virtual_wn_126,0,,,,,NULL,UR,6,Zentralschweiz,48.4,234
+Virtual_wn_127,0,,,,,NULL,UR,6,Zentralschweiz,250.4,73
+Virtual_wn_128,0,,,,,NULL,UR,6,Zentralschweiz,95,72
+Virtual_wn_129,0,,,,,NULL,UR,6,Zentralschweiz,48.1,70
+Virtual_wn_130,0,,,,,NULL,LU,6,Zentralschweiz,279,238
+Virtual_wn_131,0,,,,,NULL,LU,6,Zentralschweiz,70,239
+Virtual_wn_132,0,,,,,NULL,LU,6,Zentralschweiz,143.1,240
+Virtual_wn_133,0,,,,,NULL,LU,6,Zentralschweiz,143.2,241
+Virtual_wn_134,0,,,,,NULL,LU,6,Zentralschweiz,56,242
+Virtual_wn_135,0,,,,,NULL,LU,6,Zentralschweiz,56,242
+Virtual_wn_136,0,,,,,NULL,ZG,6,Zentralschweiz,132.1,244
+Virtual_wn_137,0,,,,,NULL,ZG,6,Zentralschweiz,132.1,244
+Virtual_wn_138,0,,,,,NULL,ZG,6,Zentralschweiz,132.2,246
+Virtual_wn_139,0,,,,,NULL,AG,3,Nordwestschweiz,58,247
+Virtual_wn_140,0,,,,,NULL,AG,3,Nordwestschweiz,58,247
+Virtual_wn_141,0,,,,,NULL,AG,3,Nordwestschweiz,156.2,249
+Virtual_wn_142,0,,,,,NULL,GL,5,Ostschweiz,59,250
+Virtual_wn_143,0,,,,,NULL,GL,5,Ostschweiz,156.3,251
+Virtual_wn_144,0,,,,,NULL,GL,5,Ostschweiz,156.1,252
+Virtual_wn_145,0,,,,,NULL,GL,5,Ostschweiz,195,253
+Virtual_wn_146,0,,,,,NULL,GL,5,Ostschweiz,284,254
+Virtual_wn_147,0,,,,,NULL,GL,5,Ostschweiz,61,255
+Virtual_wn_148,0,,,,,NULL,GL,5,Ostschweiz,103,256
+Virtual_wn_149,0,,,,,NULL,GL,5,Ostschweiz,72.2,257
+Virtual_wn_150,0,,,,,NULL,GL,5,Ostschweiz,60,258
+Virtual_wn_151,0,,,,,NULL,GL,5,Ostschweiz,73,259
+Virtual_wn_152,0,,,,,NULL,GL,5,Ostschweiz,185,260
+Virtual_wn_153,0,,,,,NULL,SG,5,Ostschweiz,104.2,261
+Virtual_wn_154,0,,,,,NULL,SG,5,Ostschweiz,75,262
+Virtual_wn_155,0,,,,,NULL,SG,5,Ostschweiz,144.1,263
+Virtual_wn_156,0,,,,,NULL,SG,5,Ostschweiz,76,264
+Virtual_wn_157,0,,,,,NULL,SG,5,Ostschweiz,76,264
+Virtual_wn_158,0,,,,,NULL,SZ,6,Zentralschweiz,173,268
+Virtual_wn_159,0,,,,,NULL,ZH,4,Zürich,134.7,269
+Virtual_wn_160,0,,,,,NULL,ZH,4,Zürich,134.6,270
+Virtual_wn_161,0,,,,,NULL,ZH,4,Zürich,81.2,271
+Virtual_wn_162,0,,,,,NULL,AG,3,Nordwestschweiz,134.5,272
+Virtual_wn_163,0,,,,,NULL,AG,3,Nordwestschweiz,82.4,273
+Virtual_wn_164,0,,,,,NULL,AG,3,Nordwestschweiz,82.3,274
+Virtual_wn_165,0,,,,,NULL,AG,3,Nordwestschweiz,82.2,275
+Virtual_wn_166,0,,,,,NULL,AG,3,Nordwestschweiz,82.1,276
+Virtual_wn_167,0,,,,,NULL,AG,3,Nordwestschweiz,144.2,277
+Virtual_wn_168,0,,,,,NULL,AG,3,Nordwestschweiz,229,278
+Virtual_wn_169,0,,,,,NULL,VS,1,Genferseeregion,221,279
+Virtual_wn_170,0,,,,,NULL,VS,1,Genferseeregion,260,280
+Virtual_wn_171,0,,,,,NULL,VS,1,Genferseeregion,117.3,281
+Virtual_wn_172,0,,,,,NULL,VS,1,Genferseeregion,117.1,36
+Virtual_wn_173,0,,,,,NULL,VS,1,Genferseeregion,179.1,41
+Virtual_wn_174,0,,,,,NULL,VS,1,Genferseeregion,250.3,284
+Virtual_wn_175,0,,,,,NULL,VS,1,Genferseeregion,257,34
+Virtual_wn_176,0,,,,,NULL,VS,1,Genferseeregion,86,286
+Virtual_wn_177,0,,,,,NULL,VS,1,Genferseeregion,87.2,287
+Virtual_wn_178,0,,,,,NULL,VS,1,Genferseeregion,89,289
+Virtual_wn_179,0,,,,,NULL,VS,1,Genferseeregion,90,290
+Virtual_wn_180,0,,,,,NULL,VS,1,Genferseeregion,179.2,291
+Virtual_wn_181,0,,,,,NULL,VS,1,Genferseeregion,188.2,292
+Virtual_wn_182,0,,,,,NULL,VS,1,Genferseeregion,179.3,293
+Virtual_wn_183,0,,,,,NULL,VS,1,Genferseeregion,179.3,293
+Virtual_wn_184,0,,,,,NULL,VS,1,Genferseeregion,198.1,47
+Virtual_wn_185,0,,,,,NULL,VS,1,Genferseeregion,158.3,296
+Virtual_wn_186,0,,,,,NULL,VS,1,Genferseeregion,119.1,297
+Virtual_wn_187,0,,,,,NULL,VS,1,Genferseeregion,199,298
+Virtual_wn_188,0,,,,,NULL,VD,1,Genferseeregion,122,299
+Virtual_wn_189,0,,,,,NULL,VD,1,Genferseeregion,158.1,300
+Virtual_wn_190,0,,,,,NULL,VD,1,Genferseeregion,230,301
+Virtual_wn_191,0,,,,,NULL,VS,1,Genferseeregion,162,302
+Virtual_wn_192,0,,,,,NULL,VS,1,Genferseeregion,162,302
+Virtual_wn_193,0,,,,,NULL,VS,1,Genferseeregion,266,304
+Virtual_wn_194,0,,,,,NULL,VD,1,Genferseeregion,163.1,305
+Virtual_wn_195,0,,,,,NULL,VD,1,Genferseeregion,163.2,306
+Virtual_wn_196,0,,,,,NULL,VD,1,Genferseeregion,164.1,307
+Virtual_wn_197,0,,,,,NULL,VD,1,Genferseeregion,164.2,308
+Virtual_wn_198,0,,,,,NULL,GE,1,Genferseeregion,148.2,309
+Virtual_wn_199,0,,,,,NULL,GE,1,Genferseeregion,148.1,310
+Virtual_wn_200,0,,,,,NULL,GE,1,Genferseeregion,127,311
+Virtual_wn_201,0,,,,,NULL,NE,2,Espace Mittelland,167,62
+Virtual_wn_202,0,,,,,NULL,NE,2,Espace Mittelland,190,313
+Virtual_wn_203,0,,,,,NULL,JU,2,Espace Mittelland,128,314
+Virtual_wn_204,0,,,,,NULL,TI,7,Tessin,239,318
+Virtual_wn_205,0,,,,,NULL,TI,7,Tessin,251,319
+Virtual_wn_206,0,,,,,NULL,GR,5,Ostschweiz,212.1,30
+Virtual_wn_207,0,,,,,NULL,GR,5,Ostschweiz,134.2,322
+Virtual_wn_208,0,,,,,NULL,GR,5,Ostschweiz,7.2,323
+Virtual_wn_209,0,,,,,NULL,GR,5,Ostschweiz,157,324
+Virtual_wn_210,0,,,,,NULL,GR,5,Ostschweiz,157,324
+Virtual_wn_211,0,,,,,NULL,TI,7,Tessin,242,16
+_AT_EAST_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_AT_EAST_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_AT_EAST_Pump_WN_UPPER,664.3339843,387.5785524,130.8705329,0,0,,,,,,
+_AT_EAST_Pump_WN_LOWER,664.3339843,387.5785524,130.8705329,0,0,,,,,,
+_AT_EAST_Dam_WN_UPPER,1223863.658,0,0,0,0,,,,,,
+_AT_EAST_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_AT_WEST_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_AT_WEST_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_AT_WEST_Pump_WN_UPPER,19368.14502,11299.55382,3815.429467,0,0,,,,,,
+_AT_WEST_Pump_WN_LOWER,19368.14502,11299.55382,3815.429467,0,0,,,,,,
+_AT_WEST_Dam_WN_UPPER,686744.8114,0,0,0,0,,,,,,
+_AT_WEST_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_ES_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_ES_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_ES_Pump_WN_UPPER,33251.406,9038.794,6479,0,0,,,,,,
+_ES_Pump_WN_LOWER,33251.406,9038.794,6479,0,0,,,,,,
+_ES_Dam_WN_UPPER,13671500,0,0,0,0,,,,,,
+_ES_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_NORTH_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_FR_NORTH_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_NORTH_Pump_WN_UPPER,4760.087547,-1404.537413,1917.457219,0,0,,,,,,
+_FR_NORTH_Pump_WN_LOWER,4760.087547,-1404.537413,1917.457219,0,0,,,,,,
+_FR_NORTH_Dam_WN_UPPER,297101.481,0,0,0,0,,,,,,
+_FR_NORTH_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_EAST_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_FR_EAST_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_EAST_Pump_WN_UPPER,19069.53801,-5626.761972,7681.58631,0,0,,,,,,
+_FR_EAST_Pump_WN_LOWER,19069.53801,-5626.761972,7681.58631,0,0,,,,,,
+_FR_EAST_Dam_WN_UPPER,123582.774,0,0,0,0,,,,,,
+_FR_EAST_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_SW_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_FR_SW_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_SW_Pump_WN_UPPER,5357.378789,-1580.777427,2158.057921,0,0,,,,,,
+_FR_SW_Pump_WN_LOWER,5357.378789,-1580.777427,2158.057921,0,0,,,,,,
+_FR_SW_Dam_WN_UPPER,41255.7452,0,0,0,0,,,,,,
+_FR_SW_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_WEST_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_FR_WEST_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_WEST_Pump_WN_UPPER,0,0,0,0,0,,,,,,
+_FR_WEST_Pump_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_WEST_Dam_WN_UPPER,140.3565943,0,0,0,0,,,,,,
+_FR_WEST_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_NE_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_FR_NE_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_NE_Pump_WN_UPPER,56.84564928,-16.77318755,22.89854956,0,0,,,,,,
+_FR_NE_Pump_WN_LOWER,56.84564928,-16.77318755,22.89854956,0,0,,,,,,
+_FR_NE_Dam_WN_UPPER,0,0,0,0,0,,,,,,
+_FR_NE_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_SE_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_FR_SE_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_SE_Pump_WN_UPPER,0,0,0,0,0,,,,,,
+_FR_SE_Pump_WN_LOWER,0,0,0,0,0,,,,,,
+_FR_SE_Dam_WN_UPPER,0,0,0,0,0,,,,,,
+_FR_SE_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_IT_CNTR_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_IT_CNTR_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_IT_CNTR_Pump_WN_UPPER,4813.177885,-958.4680323,0,0,0,,,,,,
+_IT_CNTR_Pump_WN_LOWER,4813.177885,-958.4680323,0,0,0,,,,,,
+_IT_CNTR_Dam_WN_UPPER,562673.29,0,0,0,0,,,,,,
+_IT_CNTR_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_IT_NORTH_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_IT_NORTH_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_IT_NORTH_Pump_WN_UPPER,15702.70595,-3126.944824,0,0,0,,,,,,
+_IT_NORTH_Pump_WN_LOWER,15702.70595,-3126.944824,0,0,0,,,,,,
+_IT_NORTH_Dam_WN_UPPER,209596.7219,0,0,0,0,,,,,,
+_IT_NORTH_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_IT_NW_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_IT_NW_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_IT_NW_Pump_WN_UPPER,6617.275767,-1317.72551,0,0,0,,,,,,
+_IT_NW_Pump_WN_LOWER,6617.275767,-1317.72551,0,0,0,,,,,,
+_IT_NW_Dam_WN_UPPER,32901.62951,0,0,0,0,,,,,,
+_IT_NW_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_IT_NE_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_IT_NE_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_IT_NE_Pump_WN_UPPER,7884.70094,-1570.11313,0,0,0,,,,,,
+_IT_NE_Pump_WN_LOWER,7884.70094,-1570.11313,0,0,0,,,,,,
+_IT_NE_Dam_WN_UPPER,6153.98341,0,0,0,0,,,,,,
+_IT_NE_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_IT_SOUTH_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_IT_SOUTH_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_IT_SOUTH_Pump_WN_UPPER,7136.869458,-1421.194352,0,0,0,,,,,,
+_IT_SOUTH_Pump_WN_LOWER,7136.869458,-1421.194352,0,0,0,,,,,,
+_IT_SOUTH_Dam_WN_UPPER,1041.880146,0,0,0,0,,,,,,
+_IT_SOUTH_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_NO_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_NO_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_NO_Pump_WN_UPPER,0,6565.63012,0,0,0,,,,,,
+_NO_Pump_WN_LOWER,0,6565.63012,0,0,0,,,,,,
+_NO_Dam_WN_UPPER,76 199 400,0,0,0,0,,,,,,
+_NO_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_PT_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_PT_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_PT_Pump_WN_UPPER,15072.51,5924.751,3268.95,0,0,,,,,,
+_PT_Pump_WN_LOWER,15072.51,5924.751,3268.95,0,0,,,,,,
+_PT_Dam_WN_UPPER,2830300,0,0,0,0,,,,,,
+_PT_Dam_WN_LOWER,0,0,0,0,0,,,,,,
+_SE_RoR_WN_UPPER,0,0,0,0,0,,,,,,
+_SE_RoR_WN_LOWER,0,0,0,0,0,,,,,,
+_SE_Pump_WN_UPPER,0,0,0,0,0,,,,,,
+_SE_Pump_WN_LOWER,0,0,0,0,0,,,,,,
+_SE_Dam_WN_UPPER,30700700,0,0,0,0,,,,,,
+_SE_Dam_WN_LOWER,0,0,0,0,0,,,,,,
