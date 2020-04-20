@@ -1,5 +1,4 @@
-,,storage capacity increase (m3),,,,,,,,,
-wnode_id,stor_max,2025,2030,2035,2040,name,KANTON_ID,REGION_ID,REGION_NAME, scheme_id , cascade_id 
+wnode_id,stor_max,storage_capacity_increase_2025,storage_capacity_increase_2030,storage_capacity_increase_2035,storage_capacity_increase_2040,name,KANTON_ID,REGION_ID,REGION_NAME, scheme_id , cascade_id 
 Lägh da Plan Canin (Plancanin),0,,,,,Lägh da Plan Canin (Plancanin),GR,5,Ostschweiz,134.1,1
 Ausgleichsbecken Löbbia,200,,,,,Ausgleichsbecken Löbbia,GR,5,Ostschweiz,134.1,1
 Madrischer Rheinstau,270,,,,,Madrischer Rheinstau,GR,5,Ostschweiz,133.1,2

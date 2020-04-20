@@ -1,7 +1,6 @@
-,,,,capacity increase (MW),,,,,,pump capacity increase (MW),,,,,,,,"winter generation
+hydro_id,wasta,name,capacity,capacity_increase_2025,capacity_increase_2030,capacity_increase_2035,capacity_increase_2040,eta_turb,pump,pump_increase_2025,pump_increase_2030,pump_increase_2035,pump_increase_2040,eta_pump,technology,country,canton_id,"winter generation
 [MWh]","summer generation
-[MWh]",hydro scheme_id,,,
-hydro_id,wasta,name,capacity,2025,2030,2035,2040,eta_turb,pump,2025,2030,2035,2040,eta_pump,technology,country,canton_id,,,,upperwn,lowerwn,Cascade
+[MWh]",hydro scheme_id,upperwn,lowerwn,Cascade
 Dam_Sedrun,100200,Sedrun,147,,,,,1.361111111,0,,,,,0,Dam,CH,can8,182300,79100,201,Lai da Nalps,Lai Runcahez (AGB Somvixertal),7
 Dam_Tavanasa,100300,Tavanasa,176.4,,,,,1.065217391,0,,,,,0,Dam,CH,can8,220500,342900,201,Lai Runcahez (AGB Somvixertal),Ausgleichsbecken Tavanasa,7
 RoR_Russein,100400,Russein,24.2,,,,,0.96031746,0,,,,,0,RoR,CH,can8,8400,58400,246.2,Lag Barcuns,NULL,85
